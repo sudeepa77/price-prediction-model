@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Crop Price Prediction</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>🌾 Crop Price Prediction System</h1>
+
+    <form method="POST">
+        <div class="grid">
+
+            <input name="crop_type" placeholder="Crop Type" required>
+            <input name="crop_variety" placeholder="Crop Variety" required>
+
+            <input name="quality" placeholder="Quality Grade (A/B/C)" required>
+            <input name="farmer_region" placeholder="Farmer Region" required>
+
+            <input type="number" step="any" name="production_cost" placeholder="Production Cost" required>
+            <input type="number" step="any" name="quantity" placeholder="Quantity (tons)" required>
+
+            <input type="number" step="any" name="previous_price" placeholder="Previous Price" required>
+            <input type="number" step="any" name="market_price" placeholder="Market Price" required>
+
+            <input name="demand" placeholder="Demand Level" required>
+            <input name="supply" placeholder="Supply Level" required>
+
+            <input name="buyer_type" placeholder="Buyer Type" required>
+            <input name="buyer_region" placeholder="Buyer Region" required>
+
+            <input type="number" name="purchase_history" placeholder="Purchase History (count)" required>
+            <input type="number" name="negotiation_rounds" placeholder="Negotiation Rounds" required>
+
+            <input name="payment_terms" placeholder="Payment Terms" required>
+            <input type="number" step="any" name="transport_cost" placeholder="Transport Cost" required>
+
+            <input name="seasonality" placeholder="Seasonality" required>
+            <input name="weather" placeholder="Weather Impact" required>
+
+            <input name="policy" placeholder="Government Policy" required>
+
+        </div>
+
+        <button type="submit">🔮 Predict Price</button>
+    </form>
+
+    {% if prediction %}
+        <div class="result">
+            Predicted Negotiated Price: ₹ {{ prediction }}
+        </div>
+    {% endif %}
+</div>
+
+</body>
+</html>

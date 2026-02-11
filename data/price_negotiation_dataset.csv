@@ -1,0 +1,501 @@
+Crop Type,Quality Grade,Farmer Region,Production Cost (per unit),Quantity Available (tons),Previous Contract Price (per unit),Market Price (per unit),Demand Level,Supply Level,Buyer Type,Buyer Region,Purchase History,Negotiation Rounds,Payment Terms,Transport Cost (per unit),Seasonality,Weather Impact,Government Policies,Crop Variety,Final Negotiated Price (per unit)
+Maize,C,Maharashtra,160.63,34.64,219.81,227.28,High,Medium,Wholesaler,Punjab,185.81,4,60 days credit,47.77,Winter,Flood,Subsidy,Flint Corn,235.22
+Tomatoes,A,Punjab,117.83,27.42,143.92,110.23,Low,Medium,Retailer,Delhi,155.18,4,30 days credit,49.82,Monsoon,Flood,No Policy,Roma,125.72
+Wheat,A,Delhi,83.69,29.99,247.0,151.52,High,Medium,Wholesaler,Maharashtra,253.72,3,30 days credit,28.01,Winter,Normal,No Policy,Basmati,135.83
+Maize,C,Delhi,117.87,37.36,190.28,111.9,High,Low,Wholesaler,Punjab,145.25,3,30 days credit,20.1,Summer,Drought,Export Restriction,Flint Corn,119.42
+Maize,A,Delhi,71.13,15.28,187.36,220.76,Low,High,Retailer,Maharashtra,238.47,4,Immediate,27.71,Monsoon,Normal,Subsidy,Flint Corn,124.78
+Tomatoes,C,Punjab,76.46,49.84,212.21,237.32,High,Low,Retailer,Karnataka,146.67,4,Immediate,43.89,Winter,Flood,Subsidy,Heirloom,172.15
+Wheat,B,Maharashtra,124.76,48.87,221.77,122.9,High,Medium,Retailer,Maharashtra,225.07,3,Immediate,18.24,Monsoon,Flood,Subsidy,Sharbati,135.87
+Wheat,A,Maharashtra,112.84,34.26,198.47,176.77,Medium,Medium,Retailer,Maharashtra,249.42,1,30 days credit,48.08,Monsoon,Drought,Subsidy,Durum,136.84
+Maize,B,Punjab,187.23,13.98,119.21,191.25,High,Low,Exporter,Karnataka,143.74,3,30 days credit,23.67,Winter,Flood,Export Restriction,Flint Corn,229.5
+Rice,C,Maharashtra,104.36,35.61,150.74,173.81,Medium,Medium,Exporter,Delhi,111.99,1,Immediate,49.43,Monsoon,Normal,No Policy,Sona Masoori,132.13
+Maize,B,Punjab,137.09,8.25,239.21,124.21,Low,Low,Retailer,Punjab,126.19,2,Immediate,43.54,Monsoon,Normal,No Policy,Flint Corn,124.12
+Maize,B,Maharashtra,144.84,6.38,133.69,183.79,Low,Medium,Wholesaler,Karnataka,221.2,2,30 days credit,42.34,Monsoon,Drought,Subsidy,Sweet Corn,155.28
+Maize,C,Karnataka,51.96,16.6,155.83,250.24,Medium,High,Retailer,Maharashtra,269.89,3,60 days credit,22.72,Monsoon,Normal,Subsidy,Dent Corn,142.79
+Maize,B,Karnataka,149.53,25.82,164.81,114.2,Low,High,Retailer,Punjab,109.0,1,Immediate,10.35,Summer,Normal,Subsidy,Sweet Corn,112.74
+Tomatoes,B,Delhi,76.71,44.07,165.91,116.04,High,Medium,Wholesaler,Karnataka,246.83,3,30 days credit,25.29,Monsoon,Normal,Export Restriction,Roma,111.31
+Wheat,C,Karnataka,194.16,37.72,191.94,170.95,High,Low,Exporter,Punjab,168.26,3,30 days credit,22.07,Monsoon,Normal,Export Restriction,Basmati,210.85
+Tomatoes,B,Karnataka,72.3,38.42,241.46,288.35,High,High,Retailer,Punjab,195.71,1,60 days credit,11.5,Winter,Flood,No Policy,Heirloom,198.81
+Tomatoes,C,Karnataka,112.19,24.15,136.1,233.71,Low,Low,Retailer,Karnataka,285.77,3,30 days credit,30.21,Summer,Normal,Subsidy,Roma,181.6
+Tomatoes,B,Punjab,62.8,20.57,118.23,235.73,High,Medium,Exporter,Punjab,166.39,2,30 days credit,26.12,Winter,Drought,Subsidy,Cherry,155.16
+Maize,C,Karnataka,199.53,21.7,129.62,172.38,Low,Low,Exporter,Delhi,193.07,4,Immediate,35.38,Winter,Drought,Subsidy,Sweet Corn,158.99
+Rice,C,Karnataka,125.33,49.44,233.04,218.73,High,High,Wholesaler,Karnataka,102.74,4,Immediate,34.85,Winter,Normal,Subsidy,Basmati,163.43
+Wheat,B,Delhi,139.31,6.8,196.87,102.03,Medium,Low,Exporter,Delhi,116.32,3,60 days credit,14.83,Summer,Drought,Export Restriction,Basmati,114.03
+Rice,B,Karnataka,60.06,44.02,142.89,227.22,Low,Low,Exporter,Maharashtra,151.72,1,60 days credit,49.08,Winter,Normal,No Policy,Basmati,150.82
+Tomatoes,B,Karnataka,162.49,31.04,222.39,282.66,Low,Medium,Exporter,Punjab,105.57,1,30 days credit,17.48,Winter,Drought,No Policy,Roma,210.33
+Tomatoes,A,Maharashtra,81.49,24.74,229.21,222.51,High,Medium,Wholesaler,Maharashtra,226.28,2,Immediate,27.81,Winter,Drought,Export Restriction,Roma,142.96
+Rice,A,Delhi,184.71,37.64,226.98,274.74,Low,Medium,Exporter,Maharashtra,185.28,1,60 days credit,29.52,Monsoon,Normal,Subsidy,IR-64,241.21
+Rice,A,Delhi,80.77,26.9,237.84,244.79,Low,High,Exporter,Punjab,209.63,1,60 days credit,42.52,Winter,Normal,No Policy,Sona Masoori,153.83
+Rice,C,Delhi,78.6,44.3,137.84,124.11,Medium,High,Wholesaler,Karnataka,134.93,2,60 days credit,13.97,Summer,Flood,No Policy,Sona Masoori,100.57
+Tomatoes,B,Delhi,55.48,45.53,213.26,280.49,Medium,Medium,Exporter,Punjab,159.19,3,30 days credit,27.15,Summer,Normal,Export Restriction,Cherry,176.38
+Tomatoes,C,Delhi,120.81,23.98,169.08,113.29,High,Medium,Exporter,Maharashtra,232.76,4,Immediate,35.14,Monsoon,Normal,Subsidy,Roma,122.32
+Wheat,A,Delhi,134.73,17.46,226.3,206.79,Medium,High,Wholesaler,Maharashtra,293.06,2,60 days credit,18.61,Summer,Flood,No Policy,Basmati,169.44
+Wheat,B,Punjab,59.86,31.66,209.27,128.43,High,High,Retailer,Karnataka,110.08,3,Immediate,35.1,Summer,Normal,Subsidy,Durum,89.44
+Tomatoes,C,Karnataka,166.33,46.06,216.47,102.34,High,High,Wholesaler,Punjab,278.08,2,60 days credit,46.95,Monsoon,Normal,No Policy,Heirloom,141.05
+Rice,B,Delhi,117.99,14.48,198.42,184.41,High,High,Exporter,Maharashtra,215.38,3,60 days credit,49.9,Winter,Flood,Export Restriction,Basmati,166.7
+Rice,C,Karnataka,128.66,33.03,126.61,159.01,Low,Medium,Exporter,Delhi,212.78,2,Immediate,11.3,Monsoon,Normal,Subsidy,IR-64,136.64
+Wheat,B,Karnataka,116.11,33.42,181.75,197.2,Medium,High,Exporter,Maharashtra,200.06,3,Immediate,19.42,Winter,Normal,Export Restriction,Basmati,133.94
+Tomatoes,A,Punjab,110.11,37.99,247.7,215.44,High,Medium,Wholesaler,Maharashtra,113.88,2,Immediate,22.41,Winter,Flood,No Policy,Roma,178.6
+Wheat,A,Delhi,133.95,10.92,240.61,108.75,Medium,Low,Exporter,Karnataka,117.98,3,30 days credit,25.97,Summer,Flood,Export Restriction,Sharbati,133.79
+Wheat,B,Maharashtra,73.29,37.21,106.48,124.6,High,Low,Exporter,Delhi,220.18,2,60 days credit,19.69,Monsoon,Drought,Export Restriction,Sharbati,102.85
+Maize,C,Punjab,77.29,45.91,124.72,211.73,Medium,High,Wholesaler,Maharashtra,168.19,4,30 days credit,18.14,Summer,Normal,Export Restriction,Flint Corn,136.56
+Maize,A,Maharashtra,179.27,13.09,119.76,168.63,Medium,Low,Retailer,Maharashtra,283.45,4,Immediate,48.18,Summer,Drought,No Policy,Flint Corn,148.73
+Maize,A,Karnataka,191.92,15.69,208.9,245.83,High,Low,Retailer,Delhi,181.32,1,60 days credit,46.74,Winter,Drought,Subsidy,Sweet Corn,227.52
+Rice,A,Karnataka,106.0,48.71,222.67,230.46,Low,Low,Exporter,Punjab,128.66,3,30 days credit,11.88,Summer,Flood,Export Restriction,IR-64,185.47
+Tomatoes,B,Punjab,90.61,13.14,132.03,269.12,Medium,High,Wholesaler,Punjab,242.94,2,60 days credit,23.55,Monsoon,Normal,Subsidy,Heirloom,169.97
+Tomatoes,B,Punjab,146.6,43.45,175.88,238.5,Low,High,Exporter,Maharashtra,158.67,3,30 days credit,26.21,Summer,Normal,No Policy,Heirloom,181.96
+Tomatoes,C,Maharashtra,111.31,27.15,226.11,185.99,Low,Low,Wholesaler,Maharashtra,205.09,4,Immediate,19.56,Summer,Flood,Subsidy,Heirloom,148.28
+Tomatoes,C,Delhi,53.81,16.13,209.92,234.59,High,Medium,Wholesaler,Punjab,239.57,3,30 days credit,35.15,Winter,Drought,Export Restriction,Heirloom,149.9
+Maize,C,Maharashtra,73.42,44.18,181.34,155.08,High,Low,Retailer,Karnataka,280.05,2,60 days credit,35.62,Monsoon,Flood,Export Restriction,Sweet Corn,138.56
+Rice,B,Punjab,157.4,25.04,188.55,161.26,High,High,Retailer,Delhi,258.44,3,60 days credit,44.02,Summer,Normal,Export Restriction,IR-64,167.3
+Rice,B,Maharashtra,148.84,28.17,176.25,257.8,Medium,High,Wholesaler,Delhi,235.27,2,60 days credit,39.63,Winter,Flood,Export Restriction,IR-64,201.74
+Maize,C,Punjab,54.06,21.17,144.63,189.28,High,High,Exporter,Karnataka,235.93,4,60 days credit,31.7,Summer,Normal,Export Restriction,Flint Corn,127.75
+Rice,C,Maharashtra,83.3,31.68,184.75,259.68,High,Low,Retailer,Karnataka,289.18,4,Immediate,36.14,Monsoon,Drought,Export Restriction,Sona Masoori,161.29
+Maize,B,Punjab,84.66,12.36,203.33,264.48,Medium,Medium,Exporter,Karnataka,159.16,4,30 days credit,20.96,Summer,Normal,No Policy,Dent Corn,183.3
+Tomatoes,C,Punjab,150.78,22.6,231.0,271.51,Medium,High,Retailer,Karnataka,100.22,1,Immediate,33.72,Summer,Drought,No Policy,Roma,162.48
+Maize,A,Punjab,52.96,48.62,195.44,283.33,High,High,Retailer,Karnataka,154.39,4,Immediate,29.57,Winter,Drought,No Policy,Sweet Corn,143.76
+Tomatoes,B,Delhi,65.62,16.62,214.17,186.2,High,Low,Exporter,Karnataka,143.58,3,Immediate,15.33,Summer,Normal,Subsidy,Heirloom,131.58
+Tomatoes,C,Maharashtra,169.99,34.55,124.01,163.77,High,Medium,Retailer,Delhi,232.37,1,60 days credit,19.7,Winter,Normal,Subsidy,Heirloom,192.75
+Wheat,B,Maharashtra,76.78,19.63,169.23,216.44,High,Low,Retailer,Karnataka,226.74,4,60 days credit,21.67,Monsoon,Drought,No Policy,Sharbati,152.4
+Maize,A,Maharashtra,147.91,39.81,101.4,174.23,Low,High,Exporter,Punjab,218.69,3,60 days credit,46.97,Summer,Flood,Subsidy,Dent Corn,159.82
+Wheat,B,Punjab,85.73,10.89,137.0,220.21,Low,Medium,Retailer,Karnataka,103.25,3,30 days credit,19.22,Monsoon,Normal,Subsidy,Sharbati,160.62
+Maize,B,Maharashtra,64.92,48.64,208.97,241.12,High,Medium,Retailer,Karnataka,245.76,3,60 days credit,21.57,Monsoon,Drought,Export Restriction,Flint Corn,159.06
+Maize,B,Maharashtra,86.48,25.42,248.77,237.68,Low,High,Retailer,Delhi,164.71,2,30 days credit,24.77,Summer,Drought,Export Restriction,Dent Corn,137.85
+Wheat,B,Punjab,158.34,15.62,114.88,174.91,Medium,Medium,Exporter,Delhi,233.01,1,60 days credit,36.55,Winter,Flood,Subsidy,Sharbati,183.7
+Wheat,A,Karnataka,178.35,8.31,160.22,133.37,Low,Medium,Wholesaler,Karnataka,211.32,3,60 days credit,14.73,Monsoon,Normal,Subsidy,Sharbati,163.65
+Maize,B,Punjab,174.53,12.64,220.01,186.11,Low,Low,Exporter,Delhi,168.55,2,Immediate,48.16,Monsoon,Drought,No Policy,Flint Corn,154.17
+Rice,B,Maharashtra,109.58,28.39,130.61,128.52,High,High,Wholesaler,Maharashtra,126.92,4,Immediate,44.62,Summer,Flood,Subsidy,Sona Masoori,118.75
+Tomatoes,C,Punjab,150.21,20.17,183.26,278.02,Low,High,Retailer,Delhi,118.88,3,Immediate,33.09,Summer,Drought,Export Restriction,Heirloom,164.76
+Wheat,B,Karnataka,80.75,42.3,209.96,169.18,Low,High,Wholesaler,Delhi,266.3,2,30 days credit,36.96,Summer,Normal,Subsidy,Basmati,118.09
+Tomatoes,C,Punjab,93.97,24.39,192.4,130.89,Low,High,Exporter,Delhi,283.68,3,30 days credit,10.67,Summer,Flood,No Policy,Cherry,111.56
+Rice,A,Maharashtra,184.45,16.19,128.2,105.09,Low,High,Exporter,Delhi,229.96,1,60 days credit,23.56,Summer,Drought,Export Restriction,Sona Masoori,123.13
+Rice,A,Karnataka,51.95,32.77,153.31,229.16,Medium,Medium,Retailer,Punjab,120.69,1,30 days credit,41.83,Summer,Flood,Export Restriction,Sona Masoori,154.96
+Rice,A,Delhi,62.83,36.8,217.57,227.38,High,Low,Wholesaler,Punjab,180.41,4,60 days credit,13.1,Winter,Normal,Export Restriction,Sona Masoori,167.6
+Wheat,A,Maharashtra,81.18,12.52,183.13,168.12,High,High,Retailer,Punjab,245.79,3,30 days credit,21.29,Monsoon,Flood,Export Restriction,Basmati,137.43
+Rice,C,Karnataka,53.98,12.54,100.78,114.34,Medium,Low,Retailer,Karnataka,255.96,2,30 days credit,33.41,Winter,Normal,Subsidy,Sona Masoori,88.37
+Wheat,B,Karnataka,77.22,6.65,214.15,181.93,Low,Low,Exporter,Karnataka,123.64,4,30 days credit,20.26,Winter,Drought,No Policy,Durum,122.45
+Rice,A,Delhi,137.46,38.14,105.3,162.24,Medium,Medium,Wholesaler,Maharashtra,100.01,3,Immediate,47.36,Summer,Normal,Subsidy,Basmati,142.36
+Tomatoes,B,Punjab,113.21,34.87,211.86,235.42,Low,High,Wholesaler,Punjab,242.43,4,30 days credit,15.24,Monsoon,Drought,Subsidy,Heirloom,148.25
+Tomatoes,C,Punjab,183.9,26.36,130.37,221.16,Medium,Medium,Wholesaler,Karnataka,171.32,2,Immediate,41.9,Winter,Drought,Export Restriction,Cherry,173.16
+Maize,C,Maharashtra,172.62,42.99,243.71,172.92,High,High,Wholesaler,Delhi,150.9,4,Immediate,30.32,Summer,Normal,No Policy,Flint Corn,164.13
+Tomatoes,C,Delhi,101.27,41.26,155.19,143.58,High,Medium,Retailer,Delhi,102.58,4,30 days credit,40.01,Summer,Drought,Export Restriction,Roma,127.26
+Maize,A,Punjab,88.91,31.34,149.04,297.61,High,Low,Retailer,Punjab,208.06,4,60 days credit,22.43,Monsoon,Flood,Subsidy,Flint Corn,234.38
+Tomatoes,B,Delhi,106.95,44.07,122.33,190.8,Low,High,Exporter,Maharashtra,270.23,3,60 days credit,30.58,Winter,Drought,Subsidy,Cherry,126.62
+Wheat,B,Punjab,138.54,14.26,145.84,237.65,Low,Low,Retailer,Maharashtra,291.53,2,60 days credit,44.27,Winter,Normal,Export Restriction,Basmati,197.5
+Tomatoes,B,Karnataka,90.21,10.04,231.5,128.11,Medium,Low,Retailer,Delhi,213.15,1,30 days credit,28.68,Winter,Flood,Subsidy,Cherry,120.35
+Maize,C,Punjab,143.62,17.14,249.45,197.12,Medium,Medium,Exporter,Maharashtra,202.89,3,60 days credit,24.39,Summer,Flood,Subsidy,Sweet Corn,187.83
+Maize,A,Delhi,111.41,7.57,155.25,105.51,High,High,Exporter,Punjab,117.01,1,Immediate,31.45,Monsoon,Drought,Export Restriction,Dent Corn,92.73
+Rice,C,Karnataka,132.81,28.9,167.29,201.09,Low,Low,Exporter,Delhi,209.77,1,60 days credit,38.69,Monsoon,Drought,Subsidy,IR-64,157.77
+Wheat,C,Karnataka,115.42,47.15,208.31,292.8,Medium,Medium,Retailer,Karnataka,176.0,3,30 days credit,27.74,Winter,Normal,No Policy,Basmati,214.32
+Tomatoes,B,Karnataka,94.17,6.77,232.93,176.84,Low,High,Retailer,Karnataka,221.43,3,60 days credit,47.56,Summer,Flood,Export Restriction,Cherry,134.45
+Rice,C,Delhi,192.27,10.49,188.96,107.8,Low,High,Exporter,Maharashtra,177.75,2,Immediate,21.8,Winter,Normal,No Policy,Sona Masoori,128.28
+Tomatoes,B,Maharashtra,164.54,25.35,158.73,106.19,High,Low,Exporter,Delhi,148.06,2,30 days credit,29.02,Monsoon,Drought,Subsidy,Roma,140.71
+Tomatoes,A,Maharashtra,71.02,47.02,161.89,177.6,High,High,Exporter,Delhi,118.99,4,60 days credit,40.28,Summer,Flood,Subsidy,Roma,137.05
+Rice,B,Maharashtra,180.27,19.23,204.34,132.0,Low,Low,Retailer,Karnataka,162.98,1,30 days credit,37.56,Winter,Normal,Export Restriction,Basmati,163.94
+Rice,A,Delhi,123.11,27.83,100.48,104.67,Low,High,Retailer,Delhi,119.33,2,30 days credit,44.55,Winter,Normal,Subsidy,Basmati,107.63
+Rice,B,Karnataka,184.18,6.87,192.94,251.24,Low,Medium,Wholesaler,Delhi,135.38,4,30 days credit,49.87,Summer,Normal,Export Restriction,IR-64,228.6
+Rice,C,Maharashtra,169.98,11.68,153.32,191.7,Low,Low,Retailer,Delhi,297.47,2,60 days credit,27.07,Monsoon,Normal,Export Restriction,Sona Masoori,189.88
+Rice,C,Delhi,113.78,49.4,219.13,157.85,High,Low,Retailer,Maharashtra,188.82,3,30 days credit,14.45,Summer,Normal,Export Restriction,Basmati,156.87
+Tomatoes,A,Maharashtra,53.37,48.43,113.95,280.02,Medium,High,Retailer,Delhi,206.37,2,60 days credit,11.22,Winter,Flood,Export Restriction,Roma,165.4
+Rice,A,Punjab,90.3,5.22,188.23,123.23,High,High,Exporter,Punjab,274.72,1,Immediate,39.08,Winter,Normal,Export Restriction,Basmati,101.43
+Wheat,A,Maharashtra,131.25,47.83,172.15,291.18,Medium,Low,Retailer,Maharashtra,299.11,2,60 days credit,44.96,Winter,Flood,No Policy,Durum,232.86
+Maize,B,Maharashtra,145.02,33.76,196.35,162.79,Low,High,Exporter,Delhi,216.54,1,Immediate,18.83,Winter,Normal,Export Restriction,Sweet Corn,131.59
+Rice,B,Karnataka,88.68,44.06,109.73,277.68,Medium,Medium,Wholesaler,Delhi,262.49,3,60 days credit,16.34,Monsoon,Drought,No Policy,IR-64,173.11
+Rice,A,Delhi,70.9,25.46,187.0,220.59,High,High,Wholesaler,Punjab,165.39,1,30 days credit,12.49,Monsoon,Drought,Subsidy,Basmati,137.73
+Tomatoes,C,Karnataka,175.24,28.2,184.22,265.34,High,Medium,Exporter,Maharashtra,161.15,2,60 days credit,42.91,Winter,Normal,Export Restriction,Cherry,254.43
+Rice,B,Karnataka,197.66,27.0,184.1,296.8,Low,Medium,Exporter,Karnataka,180.54,4,30 days credit,22.46,Monsoon,Drought,Subsidy,Basmati,233.63
+Rice,B,Karnataka,128.85,35.01,190.52,157.68,High,Medium,Exporter,Karnataka,234.5,3,Immediate,26.07,Monsoon,Flood,Export Restriction,Basmati,157.2
+Rice,B,Karnataka,75.75,11.28,201.47,292.23,Low,Medium,Retailer,Maharashtra,236.44,2,60 days credit,30.11,Monsoon,Normal,No Policy,Sona Masoori,193.19
+Tomatoes,A,Karnataka,90.85,6.35,220.75,177.9,High,Medium,Wholesaler,Delhi,163.05,3,30 days credit,43.58,Winter,Flood,No Policy,Cherry,162.96
+Rice,A,Maharashtra,52.76,18.86,140.47,177.1,High,High,Exporter,Delhi,126.64,3,Immediate,36.03,Summer,Normal,No Policy,IR-64,109.18
+Maize,A,Karnataka,187.14,36.71,223.76,168.08,Low,Medium,Retailer,Karnataka,226.48,2,Immediate,34.6,Summer,Drought,Subsidy,Sweet Corn,151.86
+Tomatoes,A,Karnataka,67.66,14.08,174.74,208.28,Medium,High,Wholesaler,Karnataka,125.67,2,60 days credit,17.03,Summer,Flood,Export Restriction,Roma,136.9
+Maize,A,Delhi,136.48,35.3,111.56,130.83,High,Medium,Retailer,Karnataka,215.7,4,Immediate,30.53,Winter,Drought,Subsidy,Flint Corn,125.7
+Tomatoes,C,Punjab,91.11,48.65,108.78,210.74,Medium,Low,Wholesaler,Punjab,238.68,3,30 days credit,38.62,Monsoon,Drought,No Policy,Roma,142.62
+Rice,C,Maharashtra,133.13,9.23,150.14,208.34,High,Medium,Retailer,Karnataka,240.12,3,Immediate,48.93,Monsoon,Normal,Subsidy,IR-64,178.42
+Maize,A,Maharashtra,147.71,35.27,217.73,252.38,High,Low,Wholesaler,Punjab,250.69,2,Immediate,18.06,Winter,Flood,No Policy,Sweet Corn,219.5
+Tomatoes,B,Maharashtra,174.46,24.97,206.15,266.73,High,Medium,Wholesaler,Maharashtra,274.57,1,30 days credit,10.38,Winter,Drought,No Policy,Cherry,229.31
+Wheat,A,Karnataka,80.96,44.07,218.29,188.09,High,Medium,Retailer,Delhi,199.99,2,Immediate,13.01,Summer,Normal,No Policy,Sharbati,140.58
+Rice,C,Karnataka,51.65,12.97,177.59,160.47,Medium,Medium,Exporter,Karnataka,246.05,3,Immediate,25.03,Summer,Normal,Export Restriction,Sona Masoori,100.76
+Tomatoes,C,Karnataka,70.53,36.17,166.03,151.87,Medium,Low,Wholesaler,Delhi,223.83,2,Immediate,42.82,Winter,Normal,Export Restriction,Heirloom,105.64
+Wheat,B,Delhi,185.0,42.72,122.12,138.92,High,Low,Exporter,Delhi,137.33,4,Immediate,10.29,Summer,Drought,No Policy,Sharbati,152.32
+Tomatoes,C,Punjab,181.08,47.51,149.23,111.53,High,Medium,Retailer,Karnataka,105.14,1,30 days credit,28.27,Monsoon,Normal,Subsidy,Heirloom,168.98
+Wheat,A,Karnataka,139.61,35.75,165.1,168.49,Medium,High,Exporter,Karnataka,156.91,2,Immediate,23.17,Winter,Flood,Subsidy,Basmati,138.3
+Rice,B,Punjab,140.08,27.37,113.29,154.05,Low,Medium,Exporter,Maharashtra,188.61,4,30 days credit,12.1,Winter,Flood,Export Restriction,Sona Masoori,162.14
+Maize,A,Delhi,149.76,32.8,133.09,293.28,Low,Low,Exporter,Punjab,223.42,3,Immediate,28.01,Monsoon,Drought,No Policy,Sweet Corn,189.4
+Wheat,A,Maharashtra,76.31,44.1,189.73,211.54,Medium,Medium,Exporter,Punjab,269.99,2,Immediate,20.19,Monsoon,Flood,Subsidy,Basmati,143.57
+Tomatoes,B,Karnataka,187.16,30.68,210.35,169.46,High,Low,Exporter,Delhi,139.25,3,Immediate,24.08,Monsoon,Normal,No Policy,Cherry,186.33
+Rice,A,Punjab,112.82,6.37,249.75,216.09,High,Low,Wholesaler,Karnataka,125.11,4,Immediate,38.22,Summer,Drought,Subsidy,IR-64,154.67
+Wheat,C,Punjab,107.47,46.89,239.97,127.84,Low,Low,Wholesaler,Maharashtra,292.7,3,30 days credit,30.86,Winter,Normal,Export Restriction,Sharbati,123.54
+Tomatoes,A,Karnataka,127.84,36.03,196.38,188.81,Low,Medium,Wholesaler,Maharashtra,121.61,4,30 days credit,14.99,Summer,Drought,No Policy,Cherry,149.62
+Tomatoes,B,Maharashtra,57.04,35.44,163.19,225.25,Medium,Low,Retailer,Maharashtra,195.7,4,30 days credit,48.46,Monsoon,Drought,No Policy,Heirloom,133.38
+Tomatoes,B,Maharashtra,74.94,14.71,195.43,197.78,Low,Low,Exporter,Maharashtra,217.11,4,60 days credit,35.44,Summer,Normal,Subsidy,Roma,143.18
+Wheat,B,Maharashtra,160.71,34.65,217.85,180.36,Medium,Medium,Wholesaler,Maharashtra,208.27,2,Immediate,40.63,Monsoon,Flood,Subsidy,Basmati,170.11
+Wheat,A,Delhi,62.42,22.72,117.75,298.77,Low,Low,Retailer,Punjab,117.21,3,Immediate,13.17,Summer,Flood,Subsidy,Sharbati,180.14
+Wheat,B,Punjab,140.47,34.31,161.49,276.06,Low,Medium,Wholesaler,Punjab,111.41,3,30 days credit,11.88,Summer,Drought,No Policy,Durum,196.81
+Maize,B,Punjab,86.8,9.8,225.97,224.68,Low,Low,Wholesaler,Punjab,121.1,1,60 days credit,10.78,Monsoon,Normal,Export Restriction,Sweet Corn,163.53
+Wheat,A,Punjab,108.39,34.6,157.57,213.88,High,High,Exporter,Karnataka,217.12,1,Immediate,17.55,Summer,Normal,Export Restriction,Durum,153.08
+Wheat,C,Delhi,93.3,49.97,185.78,224.13,High,High,Retailer,Delhi,208.87,1,30 days credit,26.58,Winter,Drought,Subsidy,Basmati,149.99
+Wheat,A,Punjab,103.35,7.17,188.17,140.26,High,Low,Exporter,Maharashtra,146.75,1,Immediate,47.43,Summer,Flood,Export Restriction,Durum,133.65
+Maize,B,Delhi,157.86,48.97,127.67,179.03,Low,High,Exporter,Karnataka,227.55,3,Immediate,28.28,Summer,Normal,Subsidy,Sweet Corn,144.02
+Wheat,B,Maharashtra,94.57,23.31,154.34,107.89,Medium,Medium,Wholesaler,Maharashtra,264.01,4,30 days credit,21.61,Winter,Flood,Export Restriction,Sharbati,111.61
+Tomatoes,A,Karnataka,134.96,44.18,150.18,195.11,Medium,High,Exporter,Punjab,108.32,4,30 days credit,32.48,Monsoon,Flood,No Policy,Cherry,163.76
+Wheat,C,Punjab,121.41,40.21,103.93,208.6,Medium,Low,Retailer,Karnataka,199.63,2,Immediate,14.48,Winter,Drought,Subsidy,Sharbati,141.08
+Tomatoes,B,Punjab,149.55,30.52,103.63,145.55,Medium,Low,Exporter,Punjab,237.86,4,Immediate,34.38,Summer,Drought,Export Restriction,Cherry,126.16
+Tomatoes,B,Maharashtra,190.52,38.23,224.75,292.81,High,Medium,Exporter,Maharashtra,150.46,3,30 days credit,32.74,Monsoon,Flood,No Policy,Cherry,293.08
+Tomatoes,B,Karnataka,159.89,44.53,140.96,281.89,High,Low,Exporter,Maharashtra,161.55,3,Immediate,41.68,Summer,Normal,Export Restriction,Heirloom,230.83
+Maize,A,Delhi,82.24,23.19,177.71,244.43,Low,Medium,Wholesaler,Delhi,222.73,3,Immediate,49.47,Summer,Normal,No Policy,Dent Corn,155.17
+Maize,B,Karnataka,54.68,19.72,144.81,206.68,Low,High,Retailer,Maharashtra,279.59,2,30 days credit,20.03,Winter,Drought,No Policy,Dent Corn,111.14
+Maize,C,Maharashtra,89.34,35.04,241.1,273.99,Medium,High,Wholesaler,Punjab,261.98,1,Immediate,30.39,Winter,Flood,Export Restriction,Sweet Corn,163.09
+Wheat,B,Maharashtra,139.26,41.35,138.89,126.13,High,Medium,Wholesaler,Maharashtra,216.63,4,Immediate,46.35,Monsoon,Normal,Export Restriction,Basmati,138.67
+Tomatoes,B,Karnataka,57.71,39.3,164.45,258.1,Medium,Medium,Wholesaler,Delhi,246.04,3,60 days credit,41.41,Monsoon,Normal,No Policy,Cherry,165.8
+Maize,C,Delhi,124.45,40.9,230.91,124.96,Low,Low,Wholesaler,Delhi,172.96,3,30 days credit,29.5,Monsoon,Drought,No Policy,Flint Corn,117.85
+Maize,B,Delhi,139.53,24.6,226.29,258.84,Low,High,Wholesaler,Punjab,228.19,1,60 days credit,47.81,Summer,Flood,No Policy,Flint Corn,197.64
+Wheat,A,Punjab,100.14,41.8,127.92,155.15,Medium,Medium,Retailer,Karnataka,193.24,3,60 days credit,12.29,Winter,Normal,Subsidy,Basmati,134.03
+Maize,A,Delhi,165.64,10.41,220.4,275.42,Low,High,Exporter,Maharashtra,137.99,4,60 days credit,47.24,Winter,Drought,No Policy,Dent Corn,187.56
+Wheat,A,Karnataka,65.99,29.5,168.73,288.81,Medium,Medium,Wholesaler,Delhi,240.35,2,Immediate,12.02,Winter,Normal,Subsidy,Durum,168.53
+Rice,C,Maharashtra,61.27,5.26,172.45,129.76,High,High,Wholesaler,Maharashtra,211.29,3,Immediate,31.89,Monsoon,Normal,No Policy,Basmati,90.74
+Maize,B,Punjab,159.23,19.61,120.02,192.54,Medium,Low,Retailer,Maharashtra,171.72,4,60 days credit,45.62,Winter,Normal,Subsidy,Sweet Corn,184.68
+Rice,A,Punjab,124.32,21.49,112.09,296.2,High,High,Retailer,Karnataka,282.27,3,60 days credit,20.51,Winter,Drought,No Policy,Basmati,198.7
+Wheat,C,Maharashtra,153.26,22.83,209.19,196.68,High,High,Exporter,Delhi,104.19,1,60 days credit,28.89,Winter,Flood,No Policy,Basmati,192.9
+Tomatoes,B,Delhi,115.22,36.3,174.47,272.71,Low,High,Retailer,Maharashtra,163.15,3,Immediate,22.97,Monsoon,Drought,No Policy,Roma,149.26
+Maize,C,Maharashtra,86.96,22.49,165.53,217.75,Low,High,Exporter,Delhi,111.38,3,60 days credit,48.09,Winter,Flood,Export Restriction,Dent Corn,151.17
+Wheat,A,Delhi,172.87,25.19,209.43,175.07,Low,High,Wholesaler,Punjab,253.31,2,60 days credit,42.95,Monsoon,Normal,Export Restriction,Sharbati,164.4
+Tomatoes,A,Maharashtra,169.91,15.69,214.83,157.16,Medium,Low,Wholesaler,Punjab,240.42,1,30 days credit,38.36,Winter,Flood,No Policy,Heirloom,180.3
+Tomatoes,A,Karnataka,154.2,21.8,123.84,140.64,Medium,Medium,Exporter,Maharashtra,166.27,1,30 days credit,33.51,Winter,Normal,Subsidy,Cherry,154.79
+Rice,C,Delhi,90.82,15.23,191.53,252.36,Low,High,Retailer,Delhi,235.13,2,Immediate,42.82,Winter,Normal,Subsidy,IR-64,146.71
+Wheat,C,Karnataka,138.53,8.29,120.3,177.31,Medium,Low,Exporter,Maharashtra,179.19,3,30 days credit,25.69,Monsoon,Drought,No Policy,Basmati,149.23
+Tomatoes,A,Punjab,104.15,32.16,212.71,202.26,Low,High,Retailer,Delhi,251.25,4,30 days credit,27.9,Monsoon,Normal,Export Restriction,Cherry,144.78
+Maize,C,Maharashtra,63.74,35.07,198.54,198.47,Medium,High,Wholesaler,Delhi,190.84,1,30 days credit,39.2,Winter,Drought,Subsidy,Dent Corn,111.5
+Maize,A,Punjab,187.6,32.88,243.49,215.46,High,Medium,Retailer,Karnataka,182.46,1,Immediate,24.31,Summer,Flood,Export Restriction,Flint Corn,221.13
+Rice,A,Punjab,70.52,25.86,110.34,273.12,High,High,Exporter,Karnataka,286.95,3,30 days credit,12.56,Monsoon,Flood,Subsidy,IR-64,189.43
+Tomatoes,B,Punjab,192.54,22.09,108.56,296.15,Low,Low,Exporter,Karnataka,150.18,3,Immediate,12.97,Monsoon,Normal,No Policy,Heirloom,232.13
+Wheat,C,Punjab,116.9,43.85,142.33,181.52,Medium,Low,Wholesaler,Maharashtra,124.09,1,60 days credit,14.61,Winter,Drought,Export Restriction,Sharbati,141.0
+Maize,A,Maharashtra,77.77,28.36,139.26,265.5,Medium,Medium,Retailer,Karnataka,216.91,3,30 days credit,44.79,Summer,Normal,Subsidy,Sweet Corn,180.22
+Tomatoes,A,Punjab,131.29,26.56,137.05,252.91,High,High,Retailer,Karnataka,293.86,4,Immediate,28.89,Winter,Drought,No Policy,Roma,164.25
+Tomatoes,C,Maharashtra,180.94,6.15,235.94,214.71,High,Low,Retailer,Punjab,175.57,1,30 days credit,38.52,Monsoon,Drought,No Policy,Cherry,205.64
+Rice,B,Maharashtra,159.83,20.36,137.43,291.21,Low,High,Wholesaler,Delhi,112.41,4,60 days credit,25.72,Monsoon,Drought,No Policy,Sona Masoori,191.8
+Maize,B,Karnataka,170.98,22.11,140.79,140.09,High,High,Retailer,Delhi,167.86,4,Immediate,20.35,Winter,Flood,Export Restriction,Flint Corn,155.15
+Maize,A,Delhi,148.82,22.95,213.91,121.85,Low,High,Exporter,Karnataka,201.19,3,Immediate,23.89,Winter,Drought,Export Restriction,Sweet Corn,104.14
+Wheat,C,Delhi,153.84,31.11,167.46,270.79,High,Medium,Retailer,Delhi,132.38,4,Immediate,41.77,Summer,Flood,No Policy,Durum,232.96
+Maize,B,Maharashtra,177.38,29.01,216.51,187.83,High,High,Wholesaler,Punjab,231.62,3,60 days credit,35.01,Summer,Drought,Export Restriction,Flint Corn,172.56
+Wheat,C,Karnataka,87.45,32.36,109.8,269.39,Medium,Low,Retailer,Punjab,299.55,2,60 days credit,47.51,Monsoon,Flood,Subsidy,Basmati,196.71
+Maize,C,Maharashtra,123.41,39.42,173.14,278.62,High,High,Retailer,Karnataka,190.35,3,60 days credit,37.19,Summer,Flood,No Policy,Flint Corn,221.62
+Rice,A,Maharashtra,83.18,41.58,105.04,112.49,High,Low,Exporter,Punjab,170.95,4,Immediate,32.81,Summer,Flood,No Policy,Sona Masoori,107.35
+Maize,B,Maharashtra,198.15,37.32,109.4,276.69,Low,High,Retailer,Delhi,180.14,2,60 days credit,34.41,Monsoon,Normal,Export Restriction,Dent Corn,224.36
+Wheat,A,Karnataka,191.61,48.0,235.97,189.66,High,Low,Exporter,Maharashtra,123.03,3,30 days credit,47.69,Monsoon,Drought,No Policy,Sharbati,198.17
+Wheat,B,Delhi,55.91,5.82,120.89,202.09,Low,Low,Exporter,Delhi,276.65,4,60 days credit,41.53,Monsoon,Normal,Subsidy,Sharbati,135.45
+Rice,B,Karnataka,155.84,13.81,179.86,225.32,High,High,Wholesaler,Maharashtra,182.97,1,Immediate,10.96,Monsoon,Drought,Export Restriction,IR-64,162.95
+Maize,B,Punjab,188.79,5.34,161.66,285.28,High,High,Exporter,Karnataka,177.45,1,30 days credit,31.37,Winter,Drought,Export Restriction,Sweet Corn,224.0
+Maize,B,Karnataka,77.09,34.14,152.1,103.82,Low,Low,Exporter,Maharashtra,231.94,3,60 days credit,37.53,Monsoon,Normal,No Policy,Dent Corn,94.98
+Rice,B,Karnataka,135.19,45.41,234.98,195.37,Medium,Medium,Wholesaler,Punjab,188.41,3,30 days credit,39.95,Monsoon,Flood,No Policy,Sona Masoori,182.22
+Maize,C,Karnataka,187.32,15.96,103.27,237.54,Low,High,Exporter,Delhi,229.65,1,30 days credit,18.53,Monsoon,Drought,No Policy,Flint Corn,180.67
+Maize,A,Karnataka,55.09,46.72,199.57,244.54,Low,Medium,Wholesaler,Maharashtra,112.29,4,Immediate,44.69,Summer,Flood,Export Restriction,Flint Corn,149.44
+Wheat,C,Delhi,154.61,7.71,244.51,238.51,Low,High,Retailer,Delhi,262.74,4,30 days credit,48.23,Monsoon,Normal,No Policy,Durum,185.75
+Maize,B,Punjab,94.6,47.05,184.03,126.89,Medium,High,Wholesaler,Karnataka,288.1,4,30 days credit,19.47,Winter,Flood,Subsidy,Flint Corn,109.89
+Maize,A,Delhi,188.66,20.82,240.52,159.88,High,High,Exporter,Karnataka,229.75,3,Immediate,45.3,Winter,Drought,No Policy,Sweet Corn,149.0
+Rice,B,Delhi,195.66,9.56,107.84,171.74,Low,High,Wholesaler,Punjab,290.91,2,Immediate,13.88,Monsoon,Drought,No Policy,Basmati,141.36
+Rice,A,Karnataka,191.64,26.86,162.82,260.89,Low,Medium,Exporter,Karnataka,130.29,2,Immediate,12.23,Winter,Drought,Export Restriction,IR-64,193.46
+Tomatoes,C,Maharashtra,121.13,16.55,139.02,155.75,Medium,High,Retailer,Maharashtra,195.48,2,30 days credit,15.17,Summer,Normal,No Policy,Cherry,130.83
+Wheat,A,Maharashtra,179.31,17.82,209.62,142.14,Low,Low,Wholesaler,Karnataka,220.36,2,30 days credit,12.31,Monsoon,Drought,Export Restriction,Durum,151.89
+Maize,A,Delhi,176.68,18.83,247.19,291.49,High,Low,Retailer,Punjab,216.35,2,30 days credit,43.8,Winter,Normal,No Policy,Sweet Corn,270.37
+Maize,A,Delhi,97.87,41.14,138.48,101.77,Medium,Medium,Exporter,Delhi,180.29,3,Immediate,12.36,Winter,Flood,Subsidy,Flint Corn,99.57
+Tomatoes,A,Karnataka,174.34,29.26,198.13,299.56,High,High,Exporter,Delhi,167.62,3,60 days credit,20.87,Monsoon,Drought,Subsidy,Heirloom,223.92
+Maize,A,Delhi,55.55,19.01,129.71,235.36,High,Low,Retailer,Karnataka,125.36,2,30 days credit,14.15,Winter,Drought,Export Restriction,Sweet Corn,151.2
+Wheat,B,Karnataka,139.44,32.47,184.8,265.69,Medium,Medium,Wholesaler,Maharashtra,178.35,3,60 days credit,21.82,Monsoon,Drought,Export Restriction,Sharbati,191.42
+Tomatoes,A,Maharashtra,84.5,37.23,169.59,158.92,Low,High,Wholesaler,Punjab,132.53,3,Immediate,13.62,Winter,Flood,No Policy,Roma,109.27
+Wheat,A,Maharashtra,68.09,17.27,245.8,102.86,High,Low,Exporter,Maharashtra,246.87,2,30 days credit,36.72,Summer,Drought,No Policy,Basmati,88.85
+Tomatoes,C,Punjab,61.54,23.61,191.28,247.57,High,Low,Retailer,Punjab,141.77,4,60 days credit,15.33,Winter,Normal,Subsidy,Roma,178.51
+Tomatoes,A,Maharashtra,154.44,10.48,152.43,266.83,High,Medium,Retailer,Karnataka,111.71,3,30 days credit,44.07,Winter,Flood,No Policy,Heirloom,255.45
+Rice,C,Delhi,100.98,13.15,117.11,248.1,High,High,Wholesaler,Punjab,210.47,4,30 days credit,42.69,Monsoon,Flood,Subsidy,IR-64,192.43
+Wheat,B,Maharashtra,158.72,35.65,122.69,128.57,Medium,High,Wholesaler,Punjab,219.05,3,30 days credit,10.55,Winter,Flood,Export Restriction,Sharbati,142.53
+Maize,A,Karnataka,59.8,13.16,133.8,250.69,Medium,Low,Wholesaler,Karnataka,274.38,3,60 days credit,45.83,Monsoon,Flood,No Policy,Flint Corn,171.16
+Maize,C,Maharashtra,97.29,28.63,137.64,253.78,High,Low,Retailer,Maharashtra,215.4,2,Immediate,11.16,Summer,Flood,Export Restriction,Sweet Corn,192.61
+Wheat,C,Punjab,130.92,36.91,227.59,231.71,Low,Low,Wholesaler,Karnataka,169.1,3,30 days credit,19.59,Monsoon,Normal,No Policy,Basmati,190.38
+Maize,B,Maharashtra,168.61,9.81,184.18,253.22,High,High,Wholesaler,Punjab,260.6,1,Immediate,11.3,Monsoon,Flood,Subsidy,Sweet Corn,210.39
+Maize,A,Karnataka,97.81,30.53,178.51,269.18,Low,Medium,Exporter,Karnataka,208.06,1,Immediate,23.43,Winter,Drought,Export Restriction,Sweet Corn,156.89
+Wheat,A,Karnataka,143.88,16.55,117.22,222.72,High,Medium,Wholesaler,Punjab,115.86,2,60 days credit,30.55,Summer,Flood,Export Restriction,Durum,222.3
+Tomatoes,C,Delhi,182.9,48.33,229.02,117.72,Low,High,Wholesaler,Karnataka,213.17,4,60 days credit,41.87,Monsoon,Flood,No Policy,Cherry,149.15
+Wheat,A,Maharashtra,142.38,26.76,208.42,197.53,High,Medium,Retailer,Delhi,281.6,4,Immediate,23.52,Winter,Flood,Export Restriction,Durum,186.48
+Tomatoes,C,Karnataka,84.94,41.27,110.15,115.53,Low,Low,Retailer,Delhi,179.26,4,30 days credit,38.22,Winter,Flood,Subsidy,Heirloom,110.51
+Maize,A,Punjab,53.66,29.76,206.18,181.51,High,Medium,Exporter,Karnataka,159.27,1,60 days credit,17.5,Monsoon,Flood,Export Restriction,Sweet Corn,142.6
+Maize,C,Delhi,180.51,6.95,181.53,181.42,High,Medium,Wholesaler,Maharashtra,128.69,4,30 days credit,40.02,Winter,Normal,Export Restriction,Dent Corn,209.01
+Maize,A,Punjab,53.19,33.49,112.26,113.2,Low,Medium,Exporter,Punjab,130.29,4,30 days credit,19.44,Monsoon,Normal,No Policy,Sweet Corn,87.35
+Rice,B,Maharashtra,181.21,47.81,168.75,169.76,Medium,Low,Retailer,Delhi,186.55,2,30 days credit,15.74,Monsoon,Flood,Export Restriction,IR-64,193.47
+Tomatoes,A,Maharashtra,129.34,32.07,172.7,122.2,Low,High,Exporter,Maharashtra,219.14,4,Immediate,17.42,Monsoon,Normal,No Policy,Roma,107.53
+Rice,A,Maharashtra,190.86,41.86,124.87,261.65,Medium,Low,Retailer,Punjab,116.12,1,30 days credit,17.28,Summer,Drought,No Policy,IR-64,213.81
+Rice,B,Delhi,169.82,44.79,241.85,289.54,High,High,Exporter,Delhi,287.91,1,Immediate,30.51,Monsoon,Flood,Export Restriction,Sona Masoori,229.11
+Wheat,A,Karnataka,199.69,15.26,227.5,114.46,Low,High,Exporter,Delhi,251.03,1,Immediate,43.79,Winter,Drought,Subsidy,Durum,120.87
+Rice,B,Delhi,102.61,14.54,200.35,291.02,Low,High,Wholesaler,Karnataka,217.32,2,30 days credit,13.18,Summer,Drought,No Policy,Sona Masoori,167.39
+Wheat,A,Punjab,165.08,32.49,169.34,204.52,Low,Medium,Exporter,Punjab,265.69,2,30 days credit,38.28,Winter,Flood,Export Restriction,Durum,203.74
+Wheat,C,Delhi,110.29,23.5,161.76,159.91,Medium,Medium,Wholesaler,Maharashtra,116.04,3,30 days credit,36.17,Summer,Drought,No Policy,Basmati,127.67
+Rice,C,Punjab,121.98,42.79,197.65,115.37,Medium,High,Wholesaler,Maharashtra,195.37,4,30 days credit,44.9,Summer,Drought,Subsidy,Basmati,100.93
+Tomatoes,A,Delhi,144.13,45.5,181.81,200.12,High,High,Wholesaler,Maharashtra,226.02,2,Immediate,19.77,Summer,Drought,Subsidy,Heirloom,147.17
+Tomatoes,A,Karnataka,181.05,20.9,109.34,258.9,Medium,Medium,Wholesaler,Punjab,265.73,1,30 days credit,28.0,Summer,Flood,No Policy,Cherry,242.52
+Tomatoes,A,Punjab,197.61,15.66,176.88,241.42,Medium,Low,Exporter,Maharashtra,256.69,1,30 days credit,47.03,Winter,Flood,Subsidy,Heirloom,242.02
+Tomatoes,C,Maharashtra,165.24,40.12,220.96,110.05,High,High,Retailer,Maharashtra,155.41,2,Immediate,36.4,Monsoon,Drought,Export Restriction,Cherry,117.69
+Tomatoes,A,Maharashtra,112.67,17.37,168.89,114.58,Low,Low,Retailer,Maharashtra,288.18,2,60 days credit,25.55,Winter,Flood,Export Restriction,Roma,125.27
+Rice,C,Delhi,113.2,42.02,107.79,180.57,Low,Medium,Retailer,Karnataka,124.87,2,60 days credit,15.26,Monsoon,Flood,No Policy,IR-64,161.94
+Rice,B,Maharashtra,160.64,24.07,217.94,159.06,High,High,Exporter,Karnataka,275.03,3,Immediate,20.5,Winter,Drought,Subsidy,IR-64,136.67
+Maize,C,Punjab,85.82,35.04,130.2,146.48,Low,Low,Wholesaler,Punjab,294.19,1,60 days credit,33.25,Summer,Flood,Export Restriction,Dent Corn,128.06
+Tomatoes,C,Maharashtra,66.57,9.3,138.79,156.2,Medium,Low,Retailer,Punjab,135.43,3,Immediate,38.73,Summer,Normal,Export Restriction,Roma,105.82
+Rice,B,Karnataka,103.19,33.07,124.71,260.7,High,Low,Exporter,Maharashtra,244.41,3,30 days credit,14.98,Monsoon,Flood,Export Restriction,IR-64,220.65
+Maize,C,Karnataka,93.09,25.33,149.53,285.85,High,Medium,Wholesaler,Karnataka,108.06,4,30 days credit,33.98,Monsoon,Normal,No Policy,Flint Corn,218.84
+Tomatoes,A,Delhi,94.45,31.4,213.51,181.02,High,Medium,Retailer,Delhi,181.08,1,60 days credit,32.01,Winter,Drought,No Policy,Roma,143.18
+Wheat,A,Punjab,85.04,12.56,177.91,281.22,Low,Low,Wholesaler,Delhi,203.26,1,30 days credit,30.56,Monsoon,Flood,Export Restriction,Durum,201.9
+Maize,C,Karnataka,56.31,38.16,130.73,164.3,High,Low,Retailer,Maharashtra,216.13,2,60 days credit,37.6,Winter,Drought,Export Restriction,Sweet Corn,114.66
+Rice,A,Karnataka,52.68,43.83,231.67,195.29,High,Medium,Retailer,Maharashtra,287.19,2,60 days credit,43.5,Monsoon,Drought,Subsidy,Basmati,128.88
+Wheat,C,Punjab,198.16,14.75,231.94,145.21,High,Low,Retailer,Karnataka,234.45,4,30 days credit,22.92,Monsoon,Drought,Subsidy,Basmati,178.47
+Wheat,A,Maharashtra,114.17,9.31,230.59,228.1,Low,Low,Wholesaler,Karnataka,196.26,3,30 days credit,45.56,Monsoon,Drought,Subsidy,Sharbati,161.72
+Wheat,A,Maharashtra,107.65,6.06,135.82,295.8,Medium,Medium,Exporter,Karnataka,261.94,2,60 days credit,16.43,Summer,Drought,No Policy,Basmati,190.63
+Maize,C,Delhi,151.95,33.89,167.69,220.7,High,Low,Wholesaler,Punjab,290.11,2,30 days credit,16.92,Summer,Flood,Export Restriction,Sweet Corn,225.97
+Rice,A,Maharashtra,82.74,32.32,247.75,171.56,Medium,Low,Retailer,Punjab,104.41,1,Immediate,20.67,Winter,Normal,No Policy,Sona Masoori,120.79
+Wheat,C,Punjab,192.49,29.6,215.8,229.56,Low,Low,Wholesaler,Maharashtra,296.5,1,30 days credit,14.78,Monsoon,Flood,Export Restriction,Sharbati,232.66
+Tomatoes,A,Karnataka,167.95,15.44,104.08,124.58,Low,Medium,Exporter,Punjab,117.23,2,30 days credit,19.21,Winter,Flood,Subsidy,Cherry,161.26
+Wheat,A,Maharashtra,63.41,22.59,109.78,277.73,Low,Low,Wholesaler,Karnataka,262.88,1,Immediate,14.26,Monsoon,Flood,Subsidy,Durum,170.14
+Wheat,B,Delhi,112.64,31.75,169.59,200.62,Low,Medium,Exporter,Karnataka,156.07,4,30 days credit,42.87,Summer,Flood,Subsidy,Basmati,172.68
+Maize,B,Maharashtra,181.87,27.35,236.38,189.87,Medium,Medium,Exporter,Punjab,126.44,2,30 days credit,15.56,Summer,Normal,Subsidy,Flint Corn,195.16
+Maize,C,Punjab,191.71,49.45,180.81,217.17,High,High,Wholesaler,Delhi,187.97,1,60 days credit,39.89,Monsoon,Flood,Export Restriction,Dent Corn,225.4
+Rice,B,Delhi,120.11,11.14,174.67,224.96,Low,High,Retailer,Maharashtra,228.79,4,30 days credit,11.92,Monsoon,Drought,Subsidy,Sona Masoori,146.74
+Tomatoes,C,Maharashtra,142.01,36.28,115.82,114.36,Low,Low,Exporter,Delhi,176.19,1,30 days credit,47.94,Summer,Flood,Export Restriction,Roma,141.32
+Maize,B,Delhi,75.06,23.19,198.52,236.52,Medium,Medium,Wholesaler,Maharashtra,110.91,1,Immediate,38.45,Summer,Flood,Export Restriction,Dent Corn,155.4
+Wheat,A,Punjab,198.68,24.27,223.32,148.39,Medium,High,Exporter,Delhi,219.89,1,60 days credit,10.27,Winter,Normal,No Policy,Sharbati,163.99
+Rice,C,Karnataka,84.75,37.29,157.06,242.79,Low,Low,Retailer,Punjab,280.48,2,60 days credit,40.55,Summer,Normal,Subsidy,Sona Masoori,171.96
+Wheat,C,Punjab,191.41,36.16,216.34,264.51,High,High,Wholesaler,Maharashtra,176.64,3,60 days credit,30.56,Monsoon,Drought,Subsidy,Sharbati,215.42
+Wheat,A,Punjab,147.45,49.61,244.67,260.79,High,High,Wholesaler,Maharashtra,143.27,1,30 days credit,41.17,Winter,Flood,No Policy,Sharbati,225.04
+Maize,C,Punjab,141.16,10.78,130.56,210.5,Low,Medium,Wholesaler,Maharashtra,188.52,4,60 days credit,30.9,Monsoon,Flood,Export Restriction,Flint Corn,193.85
+Rice,C,Punjab,126.9,9.68,178.5,204.03,Medium,Medium,Retailer,Karnataka,109.67,2,Immediate,35.64,Winter,Flood,Subsidy,Sona Masoori,165.05
+Tomatoes,B,Karnataka,84.6,37.6,143.07,128.58,Low,High,Exporter,Karnataka,264.1,2,60 days credit,41.45,Monsoon,Drought,Export Restriction,Roma,90.65
+Tomatoes,C,Karnataka,76.48,31.03,218.93,255.07,Low,High,Wholesaler,Delhi,265.27,4,Immediate,26.2,Summer,Normal,No Policy,Roma,141.74
+Maize,A,Delhi,83.07,17.34,186.64,154.28,Medium,Medium,Exporter,Punjab,217.6,1,60 days credit,10.11,Monsoon,Drought,Export Restriction,Flint Corn,112.15
+Maize,B,Maharashtra,77.97,8.57,195.19,199.34,Low,Low,Exporter,Karnataka,170.62,3,60 days credit,44.0,Winter,Flood,Subsidy,Sweet Corn,152.87
+Rice,B,Karnataka,166.94,8.85,219.69,156.85,Low,Medium,Retailer,Maharashtra,259.96,1,Immediate,25.24,Monsoon,Normal,Export Restriction,IR-64,153.8
+Tomatoes,A,Karnataka,102.52,45.24,159.4,126.77,Low,High,Wholesaler,Karnataka,210.94,4,60 days credit,29.84,Winter,Normal,Export Restriction,Roma,108.34
+Tomatoes,A,Maharashtra,58.68,13.63,237.26,225.91,Medium,Low,Exporter,Punjab,265.19,2,60 days credit,10.31,Monsoon,Drought,Subsidy,Cherry,134.47
+Tomatoes,B,Karnataka,195.37,19.55,179.95,110.87,High,High,Wholesaler,Karnataka,226.29,3,60 days credit,29.68,Summer,Normal,Subsidy,Heirloom,160.78
+Wheat,C,Punjab,182.57,15.2,123.69,249.73,High,Low,Wholesaler,Maharashtra,256.88,2,30 days credit,49.46,Summer,Normal,Export Restriction,Basmati,249.65
+Tomatoes,B,Punjab,189.16,20.97,204.38,163.52,Medium,High,Retailer,Delhi,219.71,4,Immediate,21.13,Monsoon,Flood,Export Restriction,Roma,158.31
+Wheat,A,Maharashtra,199.24,8.12,218.99,100.03,High,Low,Wholesaler,Maharashtra,182.83,1,60 days credit,25.82,Monsoon,Flood,No Policy,Sharbati,181.47
+Rice,B,Delhi,76.08,28.36,147.51,202.23,Low,Low,Wholesaler,Punjab,291.59,3,Immediate,37.49,Monsoon,Normal,Subsidy,IR-64,132.2
+Wheat,A,Delhi,109.44,8.04,228.58,109.37,High,High,Exporter,Delhi,208.22,2,Immediate,42.59,Winter,Normal,Export Restriction,Sharbati,103.93
+Rice,B,Maharashtra,163.74,41.02,235.92,155.23,Low,Low,Retailer,Karnataka,221.02,2,Immediate,26.7,Monsoon,Drought,Subsidy,Basmati,136.36
+Tomatoes,C,Maharashtra,154.4,15.52,141.54,241.4,High,Medium,Wholesaler,Karnataka,144.1,2,60 days credit,22.39,Monsoon,Drought,No Policy,Heirloom,205.72
+Tomatoes,B,Punjab,73.08,29.3,247.53,112.54,Medium,High,Exporter,Karnataka,225.13,1,60 days credit,47.51,Winter,Normal,Export Restriction,Roma,87.71
+Rice,B,Delhi,172.37,44.6,121.11,267.87,High,Medium,Retailer,Delhi,214.32,3,Immediate,37.09,Summer,Flood,Export Restriction,Basmati,241.53
+Maize,A,Karnataka,83.67,34.29,130.3,100.76,High,High,Retailer,Maharashtra,136.97,1,30 days credit,14.76,Monsoon,Normal,Export Restriction,Dent Corn,96.83
+Rice,A,Punjab,83.57,28.98,127.63,149.36,High,Low,Exporter,Delhi,111.92,1,Immediate,12.76,Monsoon,Normal,Subsidy,IR-64,121.71
+Maize,A,Maharashtra,130.55,19.6,234.1,248.18,Medium,Low,Exporter,Delhi,220.87,1,30 days credit,29.34,Summer,Flood,No Policy,Dent Corn,208.77
+Wheat,B,Delhi,138.94,19.99,198.14,163.25,High,Low,Exporter,Punjab,252.74,4,Immediate,18.8,Summer,Flood,Subsidy,Basmati,165.79
+Wheat,C,Karnataka,137.01,35.13,122.82,120.38,Medium,High,Exporter,Delhi,204.68,4,Immediate,20.16,Winter,Drought,Export Restriction,Sharbati,99.03
+Wheat,A,Karnataka,63.72,49.74,166.05,172.05,Low,Medium,Exporter,Karnataka,145.35,4,Immediate,45.11,Monsoon,Drought,No Policy,Basmati,100.79
+Tomatoes,A,Punjab,181.62,34.78,192.29,154.08,High,Medium,Wholesaler,Maharashtra,233.3,3,60 days credit,13.58,Monsoon,Drought,Export Restriction,Roma,174.48
+Wheat,B,Delhi,89.84,30.1,112.52,268.54,Medium,High,Wholesaler,Maharashtra,116.02,1,30 days credit,38.61,Winter,Drought,Export Restriction,Sharbati,152.4
+Maize,A,Delhi,69.43,37.88,232.36,162.67,Medium,High,Retailer,Maharashtra,188.37,1,30 days credit,20.85,Summer,Flood,Subsidy,Flint Corn,115.15
+Wheat,C,Maharashtra,183.31,25.93,220.54,257.79,High,Medium,Wholesaler,Karnataka,132.67,4,Immediate,40.41,Winter,Normal,Export Restriction,Sharbati,230.47
+Rice,C,Delhi,193.35,7.71,175.78,278.37,Low,Medium,Wholesaler,Karnataka,136.89,1,60 days credit,38.9,Summer,Drought,No Policy,Sona Masoori,222.89
+Rice,A,Delhi,179.32,30.3,245.07,186.76,Medium,Medium,Wholesaler,Karnataka,140.46,1,60 days credit,10.3,Winter,Drought,Export Restriction,IR-64,172.97
+Tomatoes,A,Punjab,171.43,48.09,162.66,281.99,High,Medium,Exporter,Karnataka,177.34,2,30 days credit,30.37,Summer,Flood,Export Restriction,Roma,274.94
+Rice,B,Delhi,148.29,12.89,247.62,175.46,Low,High,Retailer,Karnataka,110.23,1,60 days credit,15.57,Winter,Flood,Subsidy,Basmati,160.62
+Maize,C,Karnataka,132.63,36.05,200.19,292.82,Medium,High,Retailer,Delhi,179.56,2,30 days credit,44.65,Summer,Normal,No Policy,Dent Corn,201.03
+Wheat,C,Punjab,63.05,14.04,195.2,117.86,Medium,Low,Retailer,Karnataka,202.34,1,30 days credit,44.86,Summer,Normal,Subsidy,Sharbati,94.98
+Tomatoes,A,Punjab,111.27,29.11,124.89,237.4,Low,Medium,Retailer,Karnataka,196.66,3,30 days credit,26.73,Summer,Flood,Export Restriction,Heirloom,192.2
+Wheat,B,Maharashtra,105.9,9.35,232.29,198.76,Low,Low,Wholesaler,Karnataka,176.56,4,60 days credit,27.78,Summer,Drought,Subsidy,Basmati,143.95
+Wheat,C,Delhi,88.96,25.27,164.12,177.53,High,High,Wholesaler,Karnataka,267.83,2,30 days credit,22.13,Summer,Drought,Subsidy,Basmati,125.92
+Maize,C,Maharashtra,158.51,39.03,124.34,226.54,High,High,Exporter,Maharashtra,129.07,4,30 days credit,38.66,Monsoon,Drought,Subsidy,Flint Corn,181.94
+Rice,B,Karnataka,124.38,20.64,101.89,240.77,Medium,Low,Retailer,Karnataka,201.14,2,Immediate,24.35,Summer,Normal,Subsidy,Sona Masoori,173.45
+Rice,B,Punjab,62.16,34.92,183.96,100.87,Low,Medium,Wholesaler,Delhi,112.41,2,30 days credit,20.71,Monsoon,Drought,Export Restriction,Sona Masoori,77.03
+Wheat,C,Punjab,83.03,40.8,179.11,133.39,Low,Medium,Wholesaler,Delhi,114.23,2,30 days credit,27.29,Summer,Drought,Export Restriction,Durum,102.26
+Tomatoes,C,Punjab,152.49,46.72,207.9,242.61,Low,Medium,Exporter,Delhi,214.77,3,Immediate,13.66,Monsoon,Flood,No Policy,Heirloom,197.06
+Rice,B,Karnataka,61.42,15.56,233.54,233.28,Medium,Medium,Exporter,Punjab,213.2,1,Immediate,39.86,Monsoon,Drought,Subsidy,IR-64,125.98
+Tomatoes,C,Karnataka,177.68,22.97,111.91,293.21,Low,Low,Exporter,Maharashtra,275.61,2,60 days credit,10.5,Winter,Flood,Subsidy,Heirloom,259.58
+Rice,A,Maharashtra,124.27,11.86,209.72,252.21,Low,Low,Wholesaler,Karnataka,211.57,3,30 days credit,35.78,Summer,Drought,No Policy,IR-64,177.89
+Tomatoes,A,Maharashtra,122.09,49.66,128.11,290.15,Medium,High,Wholesaler,Punjab,291.96,2,60 days credit,17.31,Winter,Normal,Subsidy,Heirloom,194.78
+Maize,B,Maharashtra,138.86,46.72,228.73,240.51,High,Medium,Exporter,Karnataka,109.74,1,60 days credit,19.3,Winter,Drought,No Policy,Sweet Corn,197.18
+Tomatoes,B,Delhi,173.7,29.3,222.86,159.61,High,Medium,Retailer,Punjab,119.6,2,Immediate,35.43,Summer,Drought,Export Restriction,Roma,156.74
+Maize,B,Punjab,102.17,42.89,181.12,121.07,Medium,Medium,Exporter,Punjab,108.81,3,60 days credit,49.72,Winter,Flood,No Policy,Dent Corn,123.06
+Maize,A,Punjab,151.7,28.44,206.54,256.36,Low,Low,Exporter,Delhi,137.06,1,30 days credit,41.11,Summer,Flood,Subsidy,Sweet Corn,224.94
+Tomatoes,C,Maharashtra,134.86,33.06,147.15,228.83,Medium,Medium,Exporter,Delhi,208.25,3,Immediate,19.03,Winter,Flood,No Policy,Heirloom,181.39
+Maize,A,Punjab,90.05,9.01,170.68,109.64,High,Low,Exporter,Punjab,229.11,1,30 days credit,17.04,Summer,Drought,Export Restriction,Flint Corn,103.79
+Wheat,C,Maharashtra,181.79,38.99,223.25,172.01,High,Medium,Wholesaler,Delhi,109.12,1,30 days credit,44.65,Summer,Drought,Subsidy,Basmati,183.89
+Maize,A,Delhi,169.61,10.75,168.89,291.36,Medium,Medium,Retailer,Punjab,289.19,4,Immediate,27.77,Summer,Normal,Export Restriction,Dent Corn,218.96
+Rice,C,Delhi,148.77,42.17,153.67,200.08,Medium,High,Exporter,Maharashtra,268.43,4,30 days credit,15.48,Monsoon,Drought,Export Restriction,Basmati,148.35
+Tomatoes,A,Karnataka,177.59,40.19,174.13,186.55,High,Medium,Retailer,Delhi,159.32,4,Immediate,44.49,Winter,Normal,No Policy,Roma,190.26
+Wheat,B,Delhi,180.09,36.89,224.24,191.54,Medium,Medium,Retailer,Delhi,115.44,1,30 days credit,42.64,Monsoon,Flood,Export Restriction,Sharbati,204.86
+Tomatoes,A,Maharashtra,156.25,6.63,150.28,141.78,High,High,Retailer,Delhi,133.98,2,Immediate,49.36,Winter,Flood,Subsidy,Cherry,148.64
+Rice,C,Delhi,175.55,18.64,126.06,173.74,Medium,Low,Exporter,Maharashtra,125.39,3,60 days credit,46.39,Winter,Flood,Export Restriction,Basmati,192.55
+Rice,A,Karnataka,154.62,16.84,206.8,173.96,Medium,Low,Wholesaler,Punjab,124.66,3,30 days credit,44.07,Winter,Normal,Export Restriction,Basmati,172.5
+Rice,A,Punjab,152.02,21.21,223.9,110.47,Medium,Medium,Exporter,Karnataka,203.71,3,Immediate,12.1,Monsoon,Drought,No Policy,Sona Masoori,112.21
+Maize,A,Maharashtra,142.79,8.94,115.1,253.51,High,Low,Retailer,Delhi,149.17,4,30 days credit,14.18,Winter,Flood,Export Restriction,Flint Corn,240.31
+Maize,B,Punjab,162.91,47.16,135.98,183.3,Medium,Medium,Retailer,Punjab,171.63,1,30 days credit,32.76,Monsoon,Drought,No Policy,Sweet Corn,163.58
+Tomatoes,A,Karnataka,73.79,29.92,121.3,264.44,High,High,Wholesaler,Maharashtra,297.9,4,30 days credit,31.26,Summer,Drought,No Policy,Heirloom,159.81
+Tomatoes,B,Karnataka,182.13,18.75,152.19,270.07,High,High,Exporter,Karnataka,236.86,2,Immediate,28.32,Winter,Flood,Subsidy,Heirloom,225.53
+Wheat,B,Karnataka,180.78,22.86,167.55,142.4,Medium,Medium,Retailer,Delhi,289.8,1,60 days credit,25.87,Winter,Normal,Subsidy,Basmati,169.67
+Wheat,A,Punjab,54.39,25.12,212.32,231.47,Medium,High,Wholesaler,Maharashtra,128.51,3,60 days credit,27.25,Summer,Drought,Subsidy,Basmati,121.56
+Tomatoes,A,Punjab,173.87,32.03,197.67,194.46,High,High,Retailer,Maharashtra,176.43,4,60 days credit,32.77,Summer,Flood,Subsidy,Roma,203.04
+Maize,A,Punjab,69.33,28.21,193.14,276.03,High,Medium,Wholesaler,Karnataka,210.95,4,Immediate,10.08,Winter,Drought,No Policy,Flint Corn,162.41
+Rice,C,Punjab,100.27,46.37,152.86,143.15,Low,Medium,Wholesaler,Punjab,115.35,2,60 days credit,20.43,Summer,Drought,Export Restriction,IR-64,115.02
+Tomatoes,A,Karnataka,161.53,27.36,226.22,235.56,High,High,Exporter,Delhi,100.84,2,Immediate,30.73,Monsoon,Drought,Subsidy,Cherry,169.76
+Wheat,B,Karnataka,74.11,49.65,170.69,221.55,Low,Low,Retailer,Delhi,234.09,4,30 days credit,38.89,Monsoon,Drought,Subsidy,Durum,139.7
+Maize,A,Maharashtra,172.7,43.31,246.87,159.06,Low,Low,Exporter,Punjab,228.36,2,30 days credit,16.97,Winter,Drought,Subsidy,Sweet Corn,156.76
+Tomatoes,C,Maharashtra,174.82,14.38,195.12,127.32,Low,Medium,Retailer,Punjab,182.16,3,60 days credit,31.88,Monsoon,Normal,Export Restriction,Cherry,158.62
+Tomatoes,A,Punjab,126.12,46.88,118.94,230.33,Medium,Medium,Exporter,Punjab,197.93,2,Immediate,38.58,Monsoon,Normal,Subsidy,Heirloom,169.31
+Maize,C,Delhi,50.96,10.24,201.43,247.72,Medium,Low,Retailer,Karnataka,183.09,2,30 days credit,27.79,Winter,Flood,Export Restriction,Sweet Corn,164.65
+Tomatoes,C,Delhi,93.06,41.79,148.77,163.13,High,High,Exporter,Karnataka,104.8,4,Immediate,11.08,Summer,Normal,No Policy,Roma,121.69
+Maize,A,Karnataka,142.54,22.13,202.95,228.97,Low,Low,Wholesaler,Delhi,167.07,4,Immediate,27.97,Winter,Normal,No Policy,Flint Corn,176.47
+Rice,B,Karnataka,197.18,44.51,110.45,179.03,Medium,Low,Retailer,Karnataka,135.42,1,30 days credit,21.86,Monsoon,Normal,No Policy,Basmati,197.51
+Maize,C,Karnataka,144.77,44.06,126.23,242.64,Medium,Low,Retailer,Maharashtra,119.68,1,Immediate,47.19,Winter,Drought,Export Restriction,Sweet Corn,165.62
+Maize,A,Maharashtra,88.97,41.27,228.36,139.84,Medium,Low,Wholesaler,Delhi,291.34,4,30 days credit,14.98,Winter,Drought,Subsidy,Flint Corn,108.11
+Maize,A,Maharashtra,145.1,40.55,134.08,278.04,Medium,Medium,Exporter,Karnataka,219.87,2,30 days credit,36.1,Monsoon,Flood,Subsidy,Flint Corn,233.26
+Tomatoes,B,Karnataka,131.0,18.71,225.56,157.48,Medium,Medium,Retailer,Punjab,245.73,2,30 days credit,12.11,Monsoon,Flood,Subsidy,Roma,159.02
+Tomatoes,C,Karnataka,166.98,8.64,141.89,173.56,Low,High,Retailer,Maharashtra,163.07,1,Immediate,27.85,Winter,Flood,Subsidy,Roma,152.86
+Maize,C,Karnataka,66.05,23.13,196.43,111.62,Low,High,Exporter,Punjab,178.63,1,30 days credit,32.16,Monsoon,Drought,Subsidy,Sweet Corn,75.55
+Tomatoes,A,Delhi,164.15,12.81,204.12,122.3,Low,High,Wholesaler,Delhi,147.38,1,Immediate,21.92,Monsoon,Normal,Export Restriction,Cherry,122.46
+Wheat,A,Maharashtra,131.19,36.27,176.9,203.17,Low,High,Exporter,Punjab,119.39,3,30 days credit,28.2,Monsoon,Normal,No Policy,Basmati,157.99
+Wheat,B,Delhi,194.45,20.57,145.8,153.52,High,Low,Exporter,Karnataka,135.81,3,30 days credit,16.54,Monsoon,Drought,Subsidy,Basmati,180.86
+Tomatoes,B,Delhi,101.28,48.9,131.9,267.1,Low,Medium,Exporter,Karnataka,259.5,1,60 days credit,22.16,Monsoon,Flood,No Policy,Roma,203.07
+Tomatoes,C,Karnataka,144.89,33.84,104.98,102.94,Medium,Medium,Retailer,Delhi,235.51,2,60 days credit,34.84,Monsoon,Flood,Export Restriction,Heirloom,136.62
+Maize,C,Karnataka,189.8,42.01,145.59,175.82,Low,High,Wholesaler,Punjab,209.39,1,60 days credit,22.07,Summer,Flood,Export Restriction,Dent Corn,181.39
+Rice,A,Punjab,65.38,10.96,197.97,167.47,High,High,Wholesaler,Delhi,195.02,3,Immediate,45.99,Winter,Drought,Subsidy,Sona Masoori,99.54
+Tomatoes,C,Punjab,190.58,43.79,240.75,103.87,Medium,Low,Exporter,Punjab,284.49,2,Immediate,35.14,Monsoon,Flood,Export Restriction,Roma,146.86
+Wheat,B,Delhi,153.18,46.52,230.68,124.87,Low,Low,Retailer,Maharashtra,114.55,3,30 days credit,27.55,Winter,Flood,No Policy,Durum,153.28
+Maize,B,Maharashtra,60.18,26.92,214.91,182.73,Low,High,Exporter,Karnataka,156.12,2,30 days credit,11.55,Summer,Drought,Subsidy,Dent Corn,103.3
+Tomatoes,A,Karnataka,95.14,32.28,218.27,198.57,Low,Medium,Retailer,Delhi,169.99,3,30 days credit,29.98,Monsoon,Normal,Subsidy,Roma,154.2
+Wheat,B,Karnataka,156.23,39.42,199.75,180.86,Medium,Medium,Retailer,Maharashtra,256.49,2,30 days credit,40.59,Winter,Drought,No Policy,Sharbati,159.28
+Wheat,B,Delhi,60.1,12.87,139.04,206.19,Medium,Medium,Retailer,Maharashtra,298.5,2,Immediate,20.62,Monsoon,Drought,Subsidy,Basmati,113.84
+Rice,B,Punjab,137.33,27.62,236.08,219.03,High,High,Retailer,Delhi,148.13,2,30 days credit,42.27,Monsoon,Drought,Subsidy,IR-64,168.38
+Maize,B,Maharashtra,101.88,22.94,200.61,101.98,Medium,Medium,Wholesaler,Delhi,274.86,2,30 days credit,20.07,Monsoon,Drought,No Policy,Dent Corn,96.32
+Maize,A,Punjab,143.14,11.59,184.07,192.82,Medium,Low,Retailer,Maharashtra,266.12,4,60 days credit,42.95,Monsoon,Normal,Subsidy,Flint Corn,176.38
+Rice,A,Punjab,56.86,21.54,116.65,292.7,Low,Low,Retailer,Punjab,144.93,3,30 days credit,13.41,Monsoon,Flood,Subsidy,Basmati,192.69
+Rice,C,Punjab,180.73,8.07,167.06,203.81,Medium,High,Exporter,Maharashtra,179.87,3,30 days credit,44.65,Monsoon,Drought,No Policy,IR-64,163.53
+Maize,B,Punjab,196.02,6.16,169.05,235.51,Low,Low,Exporter,Delhi,181.93,4,30 days credit,29.97,Monsoon,Normal,Export Restriction,Sweet Corn,226.55
+Maize,C,Karnataka,195.33,11.08,229.68,162.37,Low,High,Wholesaler,Maharashtra,295.64,2,Immediate,21.86,Summer,Flood,No Policy,Dent Corn,160.56
+Tomatoes,A,Karnataka,162.45,48.34,182.0,254.8,Medium,Medium,Exporter,Punjab,136.18,2,60 days credit,20.6,Summer,Flood,Subsidy,Cherry,230.01
+Tomatoes,A,Punjab,69.51,29.73,157.06,254.58,High,Medium,Retailer,Karnataka,259.83,3,30 days credit,27.28,Monsoon,Flood,No Policy,Roma,196.52
+Rice,A,Maharashtra,163.74,48.46,246.52,204.26,High,Medium,Exporter,Karnataka,166.84,4,30 days credit,49.96,Monsoon,Drought,Subsidy,Basmati,191.27
+Tomatoes,A,Delhi,53.69,24.46,116.61,295.2,Medium,Low,Wholesaler,Maharashtra,246.17,2,60 days credit,18.81,Summer,Drought,Subsidy,Roma,164.85
+Wheat,A,Maharashtra,53.32,19.03,163.38,125.11,High,High,Exporter,Punjab,184.0,2,30 days credit,14.13,Summer,Flood,No Policy,Sharbati,98.36
+Tomatoes,A,Maharashtra,98.54,27.78,106.3,103.39,Low,Medium,Exporter,Karnataka,215.67,2,Immediate,33.4,Summer,Flood,Subsidy,Cherry,100.71
+Tomatoes,A,Maharashtra,123.3,24.78,210.99,254.03,Low,High,Wholesaler,Maharashtra,266.52,1,30 days credit,29.54,Monsoon,Flood,Export Restriction,Roma,187.2
+Wheat,B,Punjab,165.56,9.75,237.71,261.43,Medium,Medium,Wholesaler,Maharashtra,260.83,4,Immediate,30.97,Winter,Flood,Subsidy,Durum,212.96
+Rice,C,Karnataka,152.49,33.84,142.01,124.04,High,Low,Retailer,Punjab,273.28,2,Immediate,36.68,Winter,Flood,No Policy,Sona Masoori,151.71
+Wheat,A,Maharashtra,116.89,14.72,228.75,153.12,High,Low,Exporter,Delhi,111.92,1,30 days credit,20.69,Winter,Flood,Export Restriction,Sharbati,163.73
+Tomatoes,B,Punjab,91.04,32.88,143.83,103.51,Low,High,Retailer,Maharashtra,238.41,4,60 days credit,46.43,Winter,Normal,Export Restriction,Roma,91.92
+Rice,B,Maharashtra,199.57,34.26,236.62,158.66,Medium,Low,Exporter,Delhi,128.0,2,Immediate,27.43,Monsoon,Flood,Subsidy,Sona Masoori,178.67
+Tomatoes,C,Maharashtra,113.93,11.84,213.09,254.63,High,Low,Exporter,Delhi,183.16,3,60 days credit,15.16,Winter,Drought,No Policy,Roma,191.56
+Wheat,A,Punjab,117.71,7.76,220.74,203.59,Medium,High,Retailer,Karnataka,209.72,1,30 days credit,39.69,Summer,Drought,Subsidy,Basmati,136.63
+Wheat,C,Karnataka,74.54,40.13,102.7,169.62,High,Medium,Exporter,Delhi,180.55,1,Immediate,35.72,Summer,Drought,Subsidy,Durum,114.82
+Tomatoes,A,Karnataka,169.22,25.69,244.42,174.35,Low,Low,Exporter,Punjab,203.92,2,30 days credit,22.63,Winter,Flood,No Policy,Cherry,189.39
+Maize,B,Delhi,154.05,7.62,209.0,100.27,Low,High,Exporter,Karnataka,299.31,2,60 days credit,34.86,Summer,Drought,No Policy,Dent Corn,108.15
+Maize,B,Punjab,83.12,49.77,145.71,159.96,Medium,Low,Wholesaler,Karnataka,127.04,1,30 days credit,18.79,Monsoon,Normal,Subsidy,Dent Corn,127.62
+Wheat,B,Delhi,62.36,7.6,224.41,229.29,Low,Low,Retailer,Karnataka,235.09,3,30 days credit,27.79,Winter,Flood,Export Restriction,Durum,160.77
+Wheat,B,Delhi,152.07,36.28,142.23,294.84,High,Low,Wholesaler,Maharashtra,179.2,3,Immediate,45.98,Winter,Drought,Subsidy,Durum,210.16
+Maize,C,Delhi,148.18,49.27,230.91,269.41,Low,Low,Retailer,Maharashtra,126.6,4,30 days credit,15.34,Monsoon,Normal,Export Restriction,Dent Corn,219.23
+Maize,A,Karnataka,90.99,15.76,116.89,104.72,Medium,High,Retailer,Delhi,131.75,2,30 days credit,25.47,Summer,Normal,Subsidy,Flint Corn,92.47
+Tomatoes,A,Punjab,192.63,11.4,205.55,279.71,Medium,High,Exporter,Karnataka,289.85,3,30 days credit,42.85,Monsoon,Drought,No Policy,Cherry,200.86
+Tomatoes,C,Delhi,72.66,10.46,181.1,256.64,Medium,High,Retailer,Karnataka,275.92,4,Immediate,48.78,Monsoon,Normal,Export Restriction,Cherry,140.78
+Maize,A,Punjab,114.85,18.65,114.48,256.08,High,Low,Wholesaler,Punjab,281.41,3,60 days credit,28.16,Summer,Drought,No Policy,Flint Corn,192.79
+Tomatoes,B,Punjab,191.54,9.55,136.28,191.6,High,Low,Wholesaler,Delhi,298.31,2,60 days credit,30.28,Monsoon,Normal,No Policy,Heirloom,221.26
+Tomatoes,A,Karnataka,112.96,36.15,101.86,179.6,High,Low,Wholesaler,Punjab,141.66,4,30 days credit,32.89,Summer,Flood,No Policy,Cherry,177.4
+Rice,B,Delhi,145.78,7.8,170.32,160.58,High,High,Retailer,Delhi,171.09,4,Immediate,47.29,Summer,Flood,No Policy,Sona Masoori,152.8
+Tomatoes,C,Delhi,109.64,27.92,145.19,113.14,High,Low,Wholesaler,Delhi,233.84,4,30 days credit,44.33,Monsoon,Flood,No Policy,Roma,135.09
+Wheat,A,Punjab,91.13,49.85,189.75,145.65,Low,Medium,Retailer,Maharashtra,196.76,3,60 days credit,16.82,Summer,Flood,Subsidy,Basmati,130.52
+Tomatoes,C,Maharashtra,197.6,41.63,144.59,149.32,High,Low,Wholesaler,Maharashtra,183.68,2,Immediate,27.47,Monsoon,Flood,Export Restriction,Cherry,190.33
+Tomatoes,A,Karnataka,111.4,32.68,144.99,196.82,High,Medium,Wholesaler,Punjab,171.56,4,60 days credit,28.56,Summer,Drought,Subsidy,Heirloom,160.2
+Maize,B,Karnataka,184.11,18.78,211.48,249.49,Low,Low,Retailer,Delhi,218.76,1,60 days credit,41.56,Winter,Flood,Subsidy,Dent Corn,239.02
+Wheat,C,Karnataka,84.49,33.08,107.22,194.76,High,High,Wholesaler,Karnataka,215.12,2,Immediate,34.12,Summer,Flood,Subsidy,Basmati,139.28
+Tomatoes,A,Karnataka,81.97,28.72,235.43,111.57,Medium,Low,Exporter,Maharashtra,132.29,1,Immediate,36.17,Summer,Flood,No Policy,Heirloom,96.53
+Tomatoes,B,Delhi,54.67,24.17,227.84,291.56,High,Medium,Retailer,Karnataka,194.35,1,30 days credit,49.93,Monsoon,Flood,Subsidy,Roma,209.95
+Rice,C,Delhi,147.75,10.88,200.17,288.54,High,Medium,Retailer,Punjab,210.69,4,30 days credit,13.0,Summer,Normal,Export Restriction,Basmati,251.96
+Tomatoes,C,Maharashtra,105.28,44.9,188.98,257.04,Medium,Low,Retailer,Maharashtra,214.06,4,60 days credit,18.92,Winter,Flood,Subsidy,Heirloom,199.73
+Tomatoes,A,Karnataka,179.65,25.24,233.85,298.27,Medium,Medium,Exporter,Maharashtra,142.02,3,Immediate,26.32,Winter,Flood,No Policy,Roma,238.36
+Rice,A,Karnataka,120.98,13.76,127.8,208.9,Medium,Medium,Retailer,Delhi,248.45,3,Immediate,23.91,Summer,Drought,Export Restriction,Basmati,141.02
+Maize,A,Punjab,195.23,21.55,111.85,292.55,Medium,High,Wholesaler,Punjab,105.04,3,30 days credit,10.87,Summer,Normal,Export Restriction,Flint Corn,230.48
+Tomatoes,B,Delhi,77.83,23.64,135.93,115.12,High,Low,Wholesaler,Delhi,170.97,2,60 days credit,13.67,Winter,Drought,Export Restriction,Heirloom,100.29
+Rice,A,Karnataka,180.29,42.24,219.19,173.14,Medium,Low,Wholesaler,Maharashtra,256.04,3,60 days credit,37.24,Monsoon,Flood,Export Restriction,IR-64,194.83
+Wheat,C,Maharashtra,166.49,38.01,105.2,145.08,Medium,Low,Retailer,Punjab,212.78,1,30 days credit,45.17,Winter,Drought,Subsidy,Durum,147.22
+Maize,C,Maharashtra,165.64,39.62,187.42,139.17,Low,Medium,Wholesaler,Maharashtra,152.23,3,Immediate,30.57,Winter,Drought,No Policy,Sweet Corn,130.31
+Wheat,A,Delhi,176.72,5.5,249.32,128.16,Medium,Low,Retailer,Punjab,238.99,4,30 days credit,31.57,Summer,Flood,Export Restriction,Basmati,168.07
+Wheat,A,Maharashtra,164.15,23.73,228.35,224.48,Medium,Low,Wholesaler,Maharashtra,213.48,3,30 days credit,20.2,Summer,Normal,Export Restriction,Basmati,204.03
+Rice,C,Maharashtra,143.93,26.66,178.22,256.26,Low,High,Exporter,Karnataka,259.25,2,30 days credit,40.72,Winter,Normal,No Policy,IR-64,189.09
+Tomatoes,B,Delhi,69.69,5.86,109.55,215.66,Low,High,Exporter,Karnataka,247.01,2,30 days credit,40.07,Monsoon,Drought,Subsidy,Cherry,121.35
+Rice,A,Karnataka,54.88,16.69,224.71,129.39,High,High,Exporter,Delhi,222.02,1,Immediate,33.53,Winter,Flood,Export Restriction,Sona Masoori,91.9
+Rice,A,Karnataka,188.13,39.21,189.85,262.22,Low,Medium,Exporter,Karnataka,197.64,2,30 days credit,18.51,Winter,Drought,Subsidy,Sona Masoori,212.79
+Rice,C,Maharashtra,142.5,11.17,117.24,227.19,High,Low,Retailer,Maharashtra,126.64,3,Immediate,13.88,Monsoon,Drought,Subsidy,Sona Masoori,173.85
+Rice,A,Maharashtra,169.48,29.09,114.08,177.63,Low,High,Wholesaler,Maharashtra,152.27,4,30 days credit,12.57,Winter,Drought,Subsidy,IR-64,147.61
+Maize,B,Karnataka,122.23,14.68,236.44,234.83,Low,High,Exporter,Karnataka,183.82,2,60 days credit,33.71,Winter,Flood,Subsidy,Dent Corn,177.15
+Tomatoes,C,Delhi,67.6,5.55,200.38,151.98,High,High,Retailer,Delhi,219.86,1,Immediate,43.0,Summer,Flood,Export Restriction,Roma,109.52
+Wheat,A,Maharashtra,68.78,15.85,224.39,169.04,Low,Low,Exporter,Karnataka,202.74,3,60 days credit,44.33,Monsoon,Normal,Export Restriction,Durum,124.86
+Wheat,C,Punjab,152.83,48.91,231.85,283.5,High,Low,Exporter,Punjab,157.64,1,30 days credit,28.54,Summer,Flood,Subsidy,Durum,264.58
+Tomatoes,A,Delhi,114.55,41.07,185.77,158.1,Low,Low,Retailer,Punjab,101.29,2,30 days credit,41.37,Summer,Drought,Subsidy,Cherry,128.83
+Wheat,A,Maharashtra,80.08,48.18,177.62,194.0,Medium,Medium,Retailer,Punjab,199.25,2,30 days credit,47.88,Monsoon,Drought,No Policy,Basmati,129.5
+Tomatoes,A,Maharashtra,123.74,26.95,164.56,278.03,Low,Medium,Wholesaler,Karnataka,157.13,1,Immediate,21.01,Monsoon,Normal,No Policy,Cherry,190.84
+Wheat,B,Punjab,59.63,9.94,147.54,241.54,High,High,Wholesaler,Karnataka,246.92,3,60 days credit,25.92,Winter,Flood,No Policy,Sharbati,166.02
+Rice,B,Punjab,137.3,29.66,165.19,112.44,Low,Low,Exporter,Karnataka,104.79,2,Immediate,47.26,Summer,Drought,Export Restriction,IR-64,106.76
+Wheat,C,Karnataka,90.35,25.45,216.08,129.46,High,High,Exporter,Punjab,216.97,4,Immediate,23.53,Monsoon,Normal,No Policy,Sharbati,104.41
+Tomatoes,A,Delhi,169.63,43.0,190.29,101.57,High,Low,Wholesaler,Delhi,288.29,2,30 days credit,46.56,Summer,Normal,Export Restriction,Roma,156.62
+Tomatoes,A,Delhi,96.55,9.41,233.88,226.18,Medium,Low,Wholesaler,Maharashtra,134.88,3,60 days credit,49.24,Summer,Drought,Export Restriction,Roma,152.49
+Tomatoes,B,Karnataka,118.28,26.97,166.51,189.53,Medium,Low,Retailer,Karnataka,194.33,2,30 days credit,36.47,Monsoon,Drought,Export Restriction,Roma,145.44
+Tomatoes,A,Delhi,51.74,11.75,191.06,126.85,High,Medium,Wholesaler,Delhi,118.28,1,Immediate,42.68,Winter,Flood,Export Restriction,Cherry,97.98
+Tomatoes,B,Delhi,60.87,19.61,194.7,291.59,Low,Medium,Wholesaler,Maharashtra,225.14,2,30 days credit,39.98,Summer,Normal,No Policy,Roma,185.04
+Maize,A,Delhi,108.87,38.18,188.75,205.93,High,Low,Exporter,Maharashtra,210.11,2,60 days credit,37.98,Monsoon,Drought,Subsidy,Sweet Corn,163.62
+Maize,C,Delhi,121.99,26.42,205.4,148.38,High,High,Wholesaler,Maharashtra,181.47,3,30 days credit,22.28,Winter,Normal,Subsidy,Sweet Corn,141.94
+Wheat,A,Delhi,140.0,21.91,135.62,200.12,Low,Low,Exporter,Delhi,204.28,1,60 days credit,12.28,Summer,Flood,Subsidy,Sharbati,187.49
+Tomatoes,A,Punjab,93.75,22.75,176.85,235.92,Low,Low,Wholesaler,Delhi,279.31,3,60 days credit,23.72,Monsoon,Drought,No Policy,Cherry,155.77
+Wheat,B,Delhi,154.25,25.68,115.63,115.25,Low,High,Retailer,Punjab,139.26,2,30 days credit,36.68,Summer,Flood,Subsidy,Durum,133.71
+Tomatoes,A,Punjab,179.02,40.33,157.68,154.94,Low,Low,Wholesaler,Delhi,104.51,4,Immediate,14.1,Monsoon,Normal,No Policy,Cherry,158.63
+Tomatoes,A,Delhi,166.98,45.14,173.15,261.39,High,High,Wholesaler,Delhi,272.33,2,30 days credit,10.48,Monsoon,Flood,No Policy,Cherry,236.14
+Maize,B,Karnataka,55.94,47.99,197.83,191.93,High,Medium,Wholesaler,Delhi,215.42,3,Immediate,15.59,Summer,Flood,No Policy,Flint Corn,135.99
+Maize,C,Maharashtra,122.08,40.41,242.58,209.32,Medium,Medium,Exporter,Maharashtra,278.13,4,Immediate,38.63,Summer,Normal,Subsidy,Flint Corn,157.41
+Rice,C,Punjab,65.74,19.19,190.1,186.56,High,High,Retailer,Karnataka,219.39,3,30 days credit,48.91,Monsoon,Flood,Subsidy,IR-64,139.08
+Maize,B,Delhi,86.31,35.97,211.54,108.78,Low,Medium,Wholesaler,Punjab,262.03,3,Immediate,49.32,Winter,Normal,Subsidy,Flint Corn,92.67
+Rice,B,Karnataka,198.0,24.69,175.94,133.15,Medium,Medium,Exporter,Karnataka,185.93,1,Immediate,29.76,Summer,Drought,Export Restriction,Basmati,141.57
+Rice,B,Maharashtra,71.37,16.46,195.12,189.11,Low,High,Retailer,Karnataka,249.97,4,30 days credit,44.77,Monsoon,Normal,No Policy,Basmati,123.08
+Rice,B,Punjab,124.83,42.84,110.64,141.84,High,Medium,Exporter,Delhi,282.61,2,30 days credit,39.47,Monsoon,Normal,Export Restriction,Sona Masoori,154.0
+Rice,B,Maharashtra,142.72,6.73,138.16,110.0,Medium,Low,Exporter,Punjab,214.42,3,30 days credit,30.04,Winter,Drought,No Policy,IR-64,119.41
+Rice,C,Karnataka,155.37,45.58,154.28,268.73,Low,Low,Retailer,Karnataka,136.16,2,Immediate,32.91,Winter,Normal,Subsidy,Basmati,201.45
+Wheat,C,Punjab,133.95,25.77,170.87,296.24,Medium,High,Wholesaler,Karnataka,153.76,1,60 days credit,15.49,Winter,Drought,No Policy,Durum,182.94
+Maize,B,Maharashtra,51.47,33.67,106.85,258.63,Medium,Medium,Exporter,Punjab,139.73,1,Immediate,47.51,Summer,Drought,No Policy,Sweet Corn,132.57
+Rice,A,Delhi,98.97,34.67,121.0,270.76,High,Low,Exporter,Delhi,149.37,4,60 days credit,24.08,Monsoon,Normal,Export Restriction,Sona Masoori,213.52
+Tomatoes,B,Punjab,127.66,45.28,141.52,148.4,Low,Low,Wholesaler,Karnataka,161.28,1,30 days credit,27.85,Monsoon,Flood,No Policy,Heirloom,152.18
+Maize,A,Maharashtra,63.18,33.65,245.73,292.13,Medium,Medium,Wholesaler,Maharashtra,211.03,1,60 days credit,36.87,Monsoon,Flood,Subsidy,Sweet Corn,195.86
+Maize,B,Karnataka,102.59,32.63,149.7,139.39,Medium,Medium,Retailer,Karnataka,217.6,2,30 days credit,23.36,Winter,Drought,No Policy,Sweet Corn,114.34
+Rice,B,Karnataka,54.98,8.0,172.31,290.29,Low,Low,Retailer,Maharashtra,185.3,1,30 days credit,20.17,Monsoon,Flood,No Policy,Basmati,190.33
+Wheat,C,Punjab,61.79,28.33,129.41,298.96,Medium,Low,Retailer,Delhi,223.08,1,60 days credit,35.24,Summer,Flood,No Policy,Sharbati,198.86
+Rice,A,Maharashtra,109.54,11.76,191.62,242.34,Medium,High,Wholesaler,Karnataka,116.31,3,30 days credit,11.0,Winter,Normal,Export Restriction,Basmati,166.26
+Wheat,A,Punjab,69.91,38.18,142.1,296.23,Medium,High,Exporter,Punjab,117.56,1,60 days credit,38.83,Winter,Drought,No Policy,Basmati,155.7
+Tomatoes,C,Punjab,135.13,28.05,131.05,213.91,Low,Low,Exporter,Punjab,134.37,3,30 days credit,30.56,Winter,Drought,No Policy,Heirloom,164.92
+Maize,C,Maharashtra,153.42,35.61,177.49,151.91,Low,High,Retailer,Karnataka,203.62,1,Immediate,34.23,Winter,Normal,Export Restriction,Flint Corn,130.53
+Tomatoes,C,Maharashtra,170.09,6.88,100.83,187.4,Low,Low,Wholesaler,Delhi,142.8,1,Immediate,35.28,Summer,Flood,Export Restriction,Cherry,178.3
+Wheat,C,Delhi,80.02,8.82,101.15,218.71,Low,Low,Exporter,Delhi,156.66,4,30 days credit,31.08,Monsoon,Drought,Export Restriction,Sharbati,141.15
+Wheat,A,Maharashtra,75.12,37.23,132.86,114.62,High,High,Retailer,Punjab,180.06,4,30 days credit,33.3,Summer,Flood,Export Restriction,Durum,104.59
+Tomatoes,A,Karnataka,65.69,8.24,105.51,224.47,Medium,High,Exporter,Karnataka,262.37,3,60 days credit,37.35,Monsoon,Drought,Subsidy,Heirloom,123.39
+Wheat,B,Punjab,145.46,8.21,116.2,296.24,Low,Medium,Exporter,Delhi,102.77,1,Immediate,40.12,Summer,Drought,Subsidy,Sharbati,188.83
+Tomatoes,B,Punjab,155.97,5.54,150.83,138.02,Medium,Medium,Wholesaler,Punjab,229.88,2,60 days credit,39.1,Winter,Drought,No Policy,Heirloom,138.91
+Maize,C,Karnataka,54.74,48.04,220.39,258.52,Medium,Medium,Wholesaler,Maharashtra,233.78,4,30 days credit,44.78,Winter,Drought,Subsidy,Flint Corn,148.02
+Tomatoes,C,Maharashtra,190.43,38.19,185.81,281.58,High,Low,Exporter,Karnataka,259.73,2,30 days credit,17.58,Summer,Flood,No Policy,Heirloom,286.22
+Maize,C,Karnataka,57.8,20.9,176.9,288.74,Low,High,Retailer,Maharashtra,286.55,4,60 days credit,26.05,Summer,Flood,Subsidy,Flint Corn,171.93
+Tomatoes,B,Karnataka,131.19,18.34,144.02,292.03,Low,Low,Wholesaler,Maharashtra,104.03,4,30 days credit,47.91,Monsoon,Flood,Export Restriction,Roma,233.3
+Wheat,B,Delhi,156.36,20.74,239.76,204.29,Medium,High,Exporter,Delhi,130.76,1,Immediate,25.86,Summer,Flood,Export Restriction,Basmati,161.89
+Tomatoes,B,Karnataka,180.65,39.86,159.55,295.46,Low,Low,Wholesaler,Delhi,277.23,4,60 days credit,14.99,Summer,Normal,Subsidy,Cherry,249.96
+Wheat,B,Punjab,157.11,34.76,113.06,251.46,Medium,Medium,Wholesaler,Delhi,191.7,2,Immediate,31.02,Monsoon,Drought,Subsidy,Sharbati,174.66
+Tomatoes,B,Karnataka,170.26,13.33,192.56,132.33,Medium,Medium,Wholesaler,Karnataka,212.92,4,Immediate,14.38,Monsoon,Drought,No Policy,Heirloom,129.36
+Tomatoes,B,Punjab,100.92,12.83,117.08,195.38,High,Medium,Exporter,Maharashtra,232.61,3,Immediate,18.11,Monsoon,Drought,No Policy,Heirloom,139.34
+Rice,B,Punjab,172.22,9.43,151.78,243.67,High,Low,Retailer,Karnataka,235.81,1,60 days credit,49.93,Summer,Normal,No Policy,Basmati,240.18
+Wheat,C,Punjab,62.02,34.71,176.11,149.47,High,High,Retailer,Delhi,286.35,1,30 days credit,31.65,Monsoon,Flood,Export Restriction,Sharbati,116.58
+Rice,C,Maharashtra,184.22,39.4,231.13,228.12,Medium,High,Retailer,Maharashtra,299.39,3,Immediate,21.36,Winter,Drought,Export Restriction,Sona Masoori,158.65
+Wheat,C,Delhi,132.14,16.93,174.03,233.32,Low,Medium,Wholesaler,Karnataka,244.03,3,Immediate,49.79,Winter,Flood,Export Restriction,Sharbati,182.27
+Rice,C,Punjab,172.59,5.94,205.34,132.54,High,Medium,Exporter,Karnataka,157.44,3,Immediate,48.66,Winter,Flood,Export Restriction,Sona Masoori,167.4
+Maize,B,Punjab,117.85,8.7,248.92,213.02,Low,Medium,Wholesaler,Punjab,275.95,4,30 days credit,27.63,Summer,Normal,No Policy,Sweet Corn,173.71
+Tomatoes,A,Maharashtra,146.54,48.55,119.72,254.33,High,Medium,Retailer,Karnataka,109.84,1,30 days credit,20.42,Winter,Normal,Export Restriction,Roma,231.5
+Wheat,B,Punjab,128.96,18.3,141.21,199.78,High,High,Retailer,Delhi,146.22,3,60 days credit,43.54,Summer,Flood,Export Restriction,Durum,181.22
+Wheat,A,Karnataka,159.74,39.62,159.19,102.42,Medium,Low,Exporter,Karnataka,279.48,4,30 days credit,38.62,Summer,Drought,Export Restriction,Basmati,123.87
+Tomatoes,C,Karnataka,62.24,33.11,163.27,101.81,High,Low,Wholesaler,Maharashtra,151.24,3,60 days credit,37.48,Winter,Drought,Export Restriction,Heirloom,85.26
+Wheat,B,Delhi,59.05,22.19,161.65,171.41,High,Low,Retailer,Karnataka,144.13,2,60 days credit,45.72,Monsoon,Normal,Subsidy,Sharbati,133.09
+Wheat,C,Punjab,87.07,14.26,236.14,285.24,Medium,Low,Exporter,Punjab,127.63,2,60 days credit,37.58,Summer,Normal,No Policy,Basmati,195.46
+Rice,B,Maharashtra,73.93,10.46,207.1,145.74,Low,Medium,Wholesaler,Maharashtra,271.82,1,60 days credit,21.35,Winter,Normal,No Policy,Sona Masoori,115.33
+Wheat,C,Karnataka,180.77,32.68,191.19,226.87,High,Medium,Wholesaler,Maharashtra,200.01,4,60 days credit,37.75,Summer,Normal,Export Restriction,Basmati,235.41
+Maize,A,Maharashtra,82.88,39.86,146.41,144.42,Medium,Medium,Retailer,Punjab,234.98,2,Immediate,22.23,Monsoon,Normal,Subsidy,Dent Corn,107.97
+Maize,A,Maharashtra,196.38,33.98,223.57,164.33,High,Low,Retailer,Delhi,147.81,2,30 days credit,40.37,Monsoon,Normal,No Policy,Flint Corn,208.31
+Tomatoes,A,Karnataka,100.53,28.86,243.26,269.61,Medium,Medium,Wholesaler,Maharashtra,251.61,4,Immediate,34.79,Winter,Normal,No Policy,Roma,175.82
+Wheat,B,Maharashtra,77.32,6.89,223.18,245.77,Low,Medium,Wholesaler,Delhi,252.0,3,60 days credit,13.1,Summer,Drought,Export Restriction,Basmati,152.66
+Tomatoes,A,Karnataka,168.45,48.58,100.23,119.08,Low,High,Retailer,Maharashtra,162.52,4,30 days credit,30.51,Summer,Normal,Export Restriction,Cherry,135.86
